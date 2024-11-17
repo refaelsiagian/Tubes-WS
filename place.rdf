@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:places="https://example.org/schema/places">
+
+    <places:tour rdf:about="https://example.org/page/places">
+        <rdfs:name>NAMA TEMPAT</rdfs:name>
+        <places:description>DESKRIPSI</places:description>
+        <places:province>PROVINSI</places:province>
+        <places:location>LOKASI (KECAMATAN, KABUPATEN)</places:location>
+        <places:discovered>WAKTU DIDIRIKAN (Candi borobudur didirikan: abad ke-8) </places:discovered>
+        <places:built>WAKTU DITEMUKAN (Candi borobudur ditemukan: 1914)</places:built>
+        <places:category>KATEGORI</places:category>
+        <places:thumbnail>LINK GAMBAR</places:thumbnail>
+    </places:tour>
+
+</rdf:RDF>
