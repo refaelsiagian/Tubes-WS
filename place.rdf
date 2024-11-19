@@ -7,15 +7,517 @@
     xmlns:dc="http://purl.org/dc/terms/"
     xmlns:places="https://example.org/schema/places">
 
-    <places:tour rdf:about="https://example.org/page/places">
-        <rdfs:name>NAMA TEMPAT</rdfs:name>
-        <places:description>DESKRIPSI</places:description>
-        <places:province>PROVINSI</places:province>
-        <places:location>LOKASI (KECAMATAN, KABUPATEN)</places:location>
-        <places:discovered>WAKTU DIDIRIKAN (Candi borobudur didirikan: abad ke-8) </places:discovered>
-        <places:built>WAKTU DITEMUKAN (Candi borobudur ditemukan: 1914)</places:built>
-        <places:category>KATEGORI</places:category>
-        <places:thumbnail>LINK GAMBAR</places:thumbnail>
+    <!-- Jembatan Lobu -->
+    <places:tour rdf:about="https://example.org/page/places/Jembatan_Lobu">
+        <rdfs:name>Jembatan Lobu</rdfs:name>
+        <places:description>Jembatan Lobu adalah jembatan bersejarah di Desa Lobu, Kecamatan Lobu, Kabupaten Banggai, Sulawesi Tengah, yang diperkirakan dibangun pada masa penjajahan Belanda sekitar tahun 1940 dan selesai pada tahun 1942. Dibuat dari bahan kayu berkualitas tinggi yang berasal dari hutan tropis di sekitar Sungai Lobu, jembatan ini masih kokoh hingga kini, meskipun telah berusia lebih dari 80 tahun. Desainnya dipercayakan pada seorang insinyur Belanda dengan mandor dari Manado, dan konstruksinya melibatkan pekerja lokal dari desa-desa sekitar.
+            Selain sejarahnya, Jembatan Lobu juga terkenal karena kisah mistis yang mengelilinginya. Menurut legenda lokal, jembatan ini didirikan dengan bantuan "tumbal manusia" yang ditempatkan pada enam tiang utama jembatan. Konon, arwah tumbal ini menjaga ketahanan jembatan dari kerusakan meskipun sering terkena banjir bandang. Masyarakat setempat bahkan mengaku pernah melihat penampakan wanita berpakaian merah di sekitar jembatan.
+            Saat ini, Jembatan Lobu sudah menjadi situs cagar budaya dan tidak lagi digunakan sebagai jalur transportasi utama. Meski demikian, keunikannya menarik banyak orang, terutama selama bulan Ramadan, di mana remaja dan masyarakat sering mengunjungi jembatan ini sebagai tempat berkumpul. Jembatan ini juga memiliki nilai historis dalam perjuangan kemerdekaan Indonesia, di mana para pejuang dari Laskar Merah Putih pernah melintasi jembatan ini untuk menyambut tokoh kemerdekaan, Nani Wartabone.</places:description>
+        <places:province>Sulawesi Tengah</places:province>
+        <places:location>Kecamatan Lobu, Kabupaten Banggai</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1940</places:built>
+        <places:category>Landmark</places:category>
+        <places:thumbnail>https://img.antarafoto.com/cache/1200x664/2008/02/19/jembatan-lobu-kpb-dom.webp</places:thumbnail>
     </places:tour>
 
-</rdf:RDF>
+    <!-- Kompleks Megalit Padang Pokekea -->
+    <places:tour rdf:about="https://example.org/page/places/Padang_Pokekea">
+        <rdfs:name>Kompleks Megalit Padang Pokekea</rdfs:name>
+        <places:description>Situs ini berada di Kabupaten Poso, Sulawesi Tengah, dan merupakan kompleks megalitikum yang berisi banyak peninggalan batu, termasuk patung-patung dan monumen yang diyakini sebagai tanda pemakaman atau penghormatan bagi leluhur pada zaman prasejarah. 
+            Lokasi ini mencerminkan kebudayaan megalitikum yang berkembang di masa lampau dan difungsikan sebagai tempat ritual atau peringatan untuk leluhur, sehingga lebih tepat dikategorikan sebagai situs pemakaman atau tempat suci leluhur daripada kategori bangunan atau landmark lain.
+            Situs Padang Pokekea dikenal karena arca-arca batu besar yang menunjukkan kepercayaan dan praktik keagamaan masyarakat pada masa itu, menjadikannya sebagai cagar budaya yang sangat penting untuk studi arkeologi dan sejarah megalitikum di Indonesia.</places:description>
+        <places:province>Sulawesi Tengah</places:province>
+        <places:location>Kecamatan Lore Utara, Kabupaten Poso</places:location>
+        <places:discovered>Abad ke-20</places:discovered>
+        <places:built>Abad ke-3</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://cdns.klimg.com/merdeka.com/i/w/news/2021/06/03/1314079/540x270/menyusuri-pokekea-di-lore-lindu-situs-megalitikum-tertua-di-indonesia.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Istana Raja Mori -->
+    <places:tour rdf:about="https://example.org/page/places/Istana_Raja_Mori">
+        <rdfs:name>Istana Raja Mori</rdfs:name>
+        <places:description>Istana Raja Mori terletak di atas bukit kurang lebih 25 m dari permukaan laut dengan luas lokasi 960 m2. Istana ini terdiri dari bangunan induk dan anak bangunan dibangun diatas pendasi beton ukuran tinggi maksimum 1,17 m dan minimum 1,08 m dari muka tanah.
+            Secara administrasi rumah bekas Istana Raja Mori ini terletak di desa Kolonedale Kecamatan Petasia Kabupaten Morowali Propinsi Sulawesi Tengah.
+            Dari kajian-kajian yang bersumber dari peninggalan leluhur yang didukung dengan kepustakaan yang ada, diketahui bahwa Kerajaan Wita Mori adalah kerajaan persemakmuran yang terdiri dari gabungan Kerajaan-Kerajaan/Wilayah Otonom yang mempunyai pimpinan sendiri-sendiri. 
+            Walaupun demikian, bahasa, adat istiadat serta silsilah Raja-Raja/Pemimpin yang pernah menduduki jabatan dapatlah diketahui bahwa mereka berasal dari satu keturunan ratusan tahun yang silam. 
+            Ikatan kekeluargaan ini yang merupakan pengikat solidaritas yang mendorong lahirnya kerajaan persemakmuran untuk membangun secara bersama-sama kesejahteraan dan pertahanan secara terpadu dalam menghadapi perang antar suku (Mengayau) dan menghalau ekspansi Kolonial Belanda yang mulai mencampuri urusan perdagangan di Teluk Tomori (Peristiwa Towi, 1948).</places:description>
+        <places:province>Sulawesi Tengah</places:province>
+        <places:location>Kecamatan Mori, Kabupaten Morowali Utara</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1926</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://tunawisma.com/wp-content/uploads/2016/12/02B_Morowali.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Masjid Tua Bungku -->
+    <places:tour rdf:about="https://example.org/page/Masjid_Tua_Bungku">
+        <rdfs:name>Masjid Tua Bungku</rdfs:name>
+        <places:description>Masjid Tua Bungku, yang terletak di Desa Marsaole, Kecamatan Bungku Tengah, Kabupaten Morowali, adalah salah satu masjid tertua di Sulawesi Tengah. Dibangun pada tahun 1835 atas prakarsa Raja Bungku ke-VII, Kalili Mohammad Baba, masjid ini awalnya berada di Benteng Bahotobungku dan kemudian dipindahkan ke lokasi yang lebih strategis, dekat pelabuhan laut. 
+            Masjid ini didirikan dengan bantuan arsitek Merodo yang berasal dari keturunan bangsawan Ternate. Masjid ini memiliki desain arsitektur yang unik, dengan kubah dan lima atap limasan yang melambangkan lima rukun Islam. Di dalam masjid terdapat empat tiang utama yang mewakili empat sahabat Rasulullah. 
+            Selain itu, masjid ini memiliki menara setinggi 25 meter dan mampu menampung sekitar 100 jamaah. Pemerintah menetapkannya sebagai cagar budaya pada tahun 1992.
+            Masjid ini juga merupakan saksi sejarah penyebaran Islam di daerah Bungku dan telah mengalami beberapa renovasi, dengan yang terakhir dilakukan pada tahun 2021. Saat ini, di sekitar masjid berdiri Pesantren Masjid Tua Bungku, yang menjaga kelestarian nilai-nilai keislaman di daerah tersebut.</places:description>
+        <places:province>Sulawesi Tengah</places:province>
+        <places:location>Kecamatan Bungku, Kabupaten Morowali</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1835</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619433547/lnotd1skjclhmtlhpvrc.jpg/places:thumbnail>
+    </places:tour>
+
+    <!-- Gereja Tua Simpangan -->
+    <places:tour rdf:about="https://example.org/page/places/Gereja_Tua_Simpangan">
+        <rdfs:name>Gereja Tua Simpangan</rdfs:name>
+        <places:description>Gereja Tua Simpangan, yang terletak di Desa Simpangan, Kabupaten Banggai, Sulawesi Tengah, adalah salah satu gereja bersejarah yang mencerminkan sejarah panjang penyebaran agama Kristen di wilayah ini. Gereja ini didirikan pada tahun 1918, pada masa kolonial Belanda, yang saat itu berperan aktif dalam misi penyebaran agama Kristen Protestan di Sulawesi. 
+            Dengan gaya arsitektur kolonial yang khas, Gereja Tua Simpangan memiliki bentuk bangunan yang sederhana namun megah, dengan elemen-elemen arsitektur seperti dinding tebal, jendela tinggi, dan atap kokoh. 
+            Selain sebagai tempat ibadah, gereja ini memiliki makna historis mendalam bagi masyarakat setempat, menjadi pusat kegiatan keagamaan sekaligus simbol awal masuknya pengaruh Kristen di daerah tersebut. Saat ini, gereja ini masih digunakan untuk berbagai kegiatan keagamaan dan sering menjadi tujuan wisata sejarah bagi pengunjung yang tertarik untuk melihat peninggalan kolonial.</places:description>
+        <places:province>Sulawesi Tengah</places:province>
+        <places:location>Kecamatan Masama, Kabupaten Banggai</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1918</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/23/3980391372.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Rumah Adat Lapinceng -->
+    <places:tour rdf:about="https://example.org/page/places/rumah-adat-lapinceng">
+        <rdfs:name>Rumah Adat Lapinceng</rdfs:name>
+        <places:description>Rumah Adat Lapinceng merupakan peninggalan Kerajaan Soppeng Riaja. Fungsi utamanya adalah sebagai kediaman raja Kerajaan Soppeng Riaja dan menjadi tempat persiapan perang antara Kerajaan Soppeng Riaja dan pasukan Belanda pada Perang Balusu tahun 1905. Rumah ini hanya ditinggali oleh keturunan Raja Kerajaan Soppeng Riaja dari garis keturunan dengan Kerajaan Soppeng.
+            Rumah Adat Lapinceng mempunyai dua tangga naik yang berada di depan dan belakang. Bangunan ini terdiri dari serambi dan rumah induk, yang ditopang oleh 35 tiang dengan pola 7 x 5, serta tiang serambi sebanyak 6 buah. Rumah induk terbagi menjadi ruang tamu, ruang keluarga, ruang kerja raja, dan kamar tidur. Di ruang keluarga terdapat tangga menuju langit-langit yang mempunyai suatu ruangan. Dapur memiliki panjang 11 meter dan lebar 8 meter, dengan 20 tiang yang ditata dengan pola 5 x 4.
+            Rumah ini dilengkapi dengan atap seng, dan bagian serambi serta dapur memiliki atap terpisah dengan bangunan induk.</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Barru, Kabupaten Barru</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1836</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://www.mongabay.co.id/wp-content/uploads/2014/12/Rumah1-Adat-Lapinceng-nampak-atap-yang-sudah-bolong-1.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Museum Kota Makassar -->
+    <places:tour rdf:about="https://example.org/page/places/museum-kota-makassar">
+        <rdfs:name>Museum Kota Makassar</rdfs:name>
+        <places:description>Museum Kota Makassar, juga dikenal sebagai Museum Balaikota Makassar, adalah museum sejarah yang terletak di dalam gedung Balai Kota Makassar, Sulawesi Selatan. Museum ini menyimpan koleksi bersejarah yang berhubungan erat dengan perjalanan kota Makassar sejak masa kolonial hingga era modern. 
+            Bangunan yang menaungi museum ini adalah bangunan peninggalan kolonial Belanda yang berdiri sejak tahun 1916. Museum ini dulunya merupakan Kantor Gubernur Sulawesi sebelum beralih fungsi menjadi pusat pemerintahan Kota Makassar dan akhirnya menjadi museum yang dibuka untuk umum pada tahun 2000-an. Sebagai museum kota, koleksinya mencakup berbagai artefak penting seperti foto-foto sejarah, peta kuno, peralatan tradisional, serta memorabilia yang mengisahkan perjalanan Makassar dari masa penjajahan hingga menjadi kota modern seperti sekarang.
+            Museum Kota Makassar juga menjadi tempat edukatif bagi masyarakat dan pengunjung yang ingin memahami lebih dalam tentang identitas dan perkembangan kota Makassar dari waktu ke waktu. Museum ini tidak hanya berfungsi sebagai tempat penyimpanan koleksi sejarah, tetapi juga sebagai pusat informasi kebudayaan dan sosial masyarakat Makassar.</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Ujung Pandang, Kota Makassar</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1916</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://museum.co.id/wp-content/uploads/2020/09/99058985-591406898157820-2308025778981289214-n-172d476df0295bbb8ee784b69a9331d1.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Pilboks Jepang Bantaeng -->
+    <places:tour rdf:about="https://example.org/page/places/pilboks-jepang-bantaeng">
+        <rdfs:name>Pilboks Jepang Bantaeng</rdfs:name>
+        <places:description>Pilboks Jepang di Bantaeng adalah bangunan pertahanan peninggalan Jepang yang terletak di Kabupaten Bantaeng, Sulawesi Selatan. Pilboks ini dibangun selama Perang Dunia II ketika Jepang menduduki wilayah Indonesia, termasuk Sulawesi, pada awal 1940-an. 
+            Pilboks tersebut adalah salah satu struktur pertahanan yang dirancang untuk memantau dan melindungi garis pantai dari serangan pasukan Sekutu. Struktur pilboks ini terbuat dari beton yang cukup tebal dan memiliki beberapa lubang intai atau penembakan yang memungkinkan pasukan Jepang mengamati pergerakan di sekitar pantai. 
+            Desain pilboks yang kokoh menunjukkan teknologi pertahanan militer Jepang saat itu, yang berfokus pada penguatan titik-titik strategis di pesisir. Kini, Pilboks Jepang Bantaeng menjadi salah satu situs bersejarah yang menarik bagi wisatawan yang ingin mengetahui lebih banyak tentang peninggalan perang di Indonesia. 
+            Bangunan ini masih dalam kondisi yang cukup baik dan menjadi simbol sejarah yang mencatat kehadiran Jepang di Sulawesi pada masa perang. Lokasi ini juga sering dijadikan sebagai destinasi edukasi sejarah bagi masyarakat sekitar dan pengunjung..</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Bantaeng, Kabupaten Bantaeng</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>awal 1940-an</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://budaya-data.kemdikbud.go.id/foto/KB/KB00/KB000747-1.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kawasan Sumpang Bita -->
+    <places:tour rdf:about="https://example.org/page/kawasan-sumpang-bita">
+        <rdfs:name>Kawasan Sumpang Bita</rdfs:name>
+        <places:description>Kawasan Sumpang Bita adalah situs prasejarah yang terletak di Kabupaten Pangkajene dan Kepulauan, Sulawesi Selatan, tepatnya di Kampung Sumpang Bita, Kelurahan Balocci Baru, Kecamatan Balocci. Situs ini terkenal dengan dua gua prasejarah utama: Gua Sumpang Bita dan Gua Bulu Sumi, yang kaya akan temuan arkeologis.
+            Gua Sumpang Bita, yang merupakan gua terbesar di Sulawesi Selatan, memiliki kubah yang tinggi dengan tiga ruangan utama. Lukisan dinding di gua ini menggambarkan cap tangan, gambar babirusa, dan perahu, serta ditemukan artefak seperti cangkang moluska, fragmen gerabah, dan tulang manusia. Sedangkan Gua Bulu Sumi, yang juga memiliki lukisan dinding serupa, terletak di ketinggian 200 meter di atas permukaan laut.
+            Taman Prasejarah Sumpang Bita juga dikenal karena pemandangan alamnya yang indah, dengan area karst yang menjulang tinggi dan rumput hijau yang luas, membuatnya menjadi tujuan wisata yang menarik. Situs ini telah dibuka untuk umum dan dilengkapi dengan fasilitas seperti tangga semen menuju gua, ruang informasi, dan fasilitas umum lainnya.</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Liukang Kalmas, Kabupaten Pangkajene Kepulauan</places:location>
+        <places:discovered>1982</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://suarajelata.com/wp-content/uploads/2022/12/IMG-20221220-WA0036.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Rante Karassik -->
+    <places:tour rdf:about="https://example.org/page/Rante_Karassik">
+        <rdfs:name>Rante Karassik</rdfs:name>
+        <places:description>Rante Karassik adalah sebuah situs pemakaman tradisional yang terletak di Tana Toraja, Sulawesi Selatan, Indonesia. Situs ini merupakan salah satu tempat penyelenggaraan ritual pemakaman khas Toraja yang unik dan ikonik. Di Rante Karassik, pemakaman dilakukan dengan menempatkan peti mati di dalam gua-gua batu atau menggantungnya pada dinding tebing yang curam. Setiap makam sering kali ditemani oleh *tau-tau*, yaitu patung kayu yang dibuat menyerupai orang yang telah meninggal sebagai bentuk penghormatan.
+        Rante Karassik sering kali digunakan untuk upacara pemakaman yang melibatkan prosesi adat besar-besaran, lengkap dengan ritual penyembelihan kerbau dan babi. Ritual pemakaman ini biasanya berlangsung selama beberapa hari dan dihadiri oleh kerabat serta masyarakat, karena dianggap sebagai salah satu bentuk penghormatan terakhir yang sangat penting bagi masyarakat Toraja. 
+        Selain berfungsi sebagai situs pemakaman, Rante Karassik juga menarik wisatawan yang tertarik untuk menyaksikan budaya Toraja yang kaya, termasuk kepercayaan dan tradisi yang berhubungan dengan kematian dan kehidupan setelahnya. Upacara pemakaman ini mencerminkan kepercayaan masyarakat Toraja akan pentingnya menghormati arwah leluhur demi keseimbangan hubungan antara dunia manusia dan dunia spiritual.</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Rantepao, Kabupaten Toraja Utara</places:location>
+        <places:discovered>1880</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/60/Rante_Karassik_JelajahSuwanto.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kantor Pengadilan Negeri Makassar (Raad Van Justitia) -->
+    <places:tour rdf:about="https://example.org/page/Kantor_Pengadilan_Negeri_Makassar">
+        <rdfs:name>Kantor Pengadilan Negeri Makassar (Raad Van Justitia)</rdfs:name>
+        <places:description>Kantor Pengadilan Negeri Makassar, yang dulunya dikenal sebagai *Raad van Justitie*, adalah salah satu bangunan bersejarah yang terletak di Kota Makassar, Sulawesi Selatan. Dibangun pada masa kolonial Belanda pada abad ke-17, bangunan ini awalnya berfungsi sebagai gedung pengadilan tinggi untuk wilayah Hindia Belanda di kawasan timur Indonesia. Desain arsitektur gedung ini mencerminkan gaya kolonial yang khas dengan pilar-pilar besar dan atap tinggi yang memberikan kesan megah dan berwibawa.
+            Selain fungsinya sebagai tempat peradilan, gedung ini memiliki nilai sejarah yang mendalam. Selama masa pendudukan Belanda, kantor ini digunakan untuk mengadili berbagai kasus, termasuk yang terkait dengan perlawanan rakyat lokal terhadap pemerintah kolonial. Bangunan ini menjadi saksi bisu dari dinamika sosial, politik, dan hukum di Indonesia pada masa kolonial.
+            Hingga saat ini, Kantor Pengadilan Negeri Makassar tetap berfungsi sebagai lembaga peradilan dan termasuk dalam daftar cagar budaya yang dilindungi. Bangunan ini tidak hanya berfungsi sebagai tempat penegakan hukum, tetapi juga menjadi situs bersejarah yang menarik minat wisatawan dan pengamat sejarah, mengingat peran pentingnya dalam sejarah hukum dan kolonialisme di Indonesia.</places:description>
+        <places:province>Sulawesi Selatan</places:province>
+        <places:location>Kecamatan Ujung Pandang, Kota Makassar</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1915</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://cdn.idntimes.com/content-images/community/2023/09/gedung-kedua-0639bf95f9f07094b87d3a29aaede8f5-87743f50f0f38ee63b08c1e4be33e89f.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kompleks Makam Raja-raja BangaE Ondongan -->
+    <places:tour rdf:about="https://example.org/page/Kompleks_Makam_Raja_raja_BangaE_Ondongan">
+        <rdfs:name>Kompleks Makam Raja-raja BangaE Ondongan</rdfs:name>
+        <places:description>Kompleks ini merupakan tempat peristirahatan terakhir bagi para raja dan bangsawan dari Kerajaan Bangkala, salah satu kerajaan lokal yang pernah berkuasa di wilayah Jeneponto pada masa lalu.
+            Situs ini memiliki sejumlah makam yang mencerminkan tradisi dan budaya masyarakat Makassar serta arsitektur khas pemakaman bangsawan setempat. Batu nisan pada makam-makam di kompleks ini dihiasi dengan ornamen tradisional yang memiliki makna simbolis, seperti bentuk ukiran yang menunjukkan status atau peran sosial dari individu yang dimakamkan di sana. Kompleks ini juga dijaga dan dihormati oleh masyarakat setempat sebagai bagian dari warisan leluhur.
+            Sebagai situs bersejarah, Kompleks Makam Raja-raja BangaE Ondongan kerap dikunjungi oleh wisatawan dan peneliti sejarah yang tertarik dengan budaya serta sejarah kerajaan-kerajaan lokal di Sulawesi Selatan. Lokasi ini memiliki nilai penting dalam melestarikan sejarah daerah Jeneponto dan mengenang kehidupan para pemimpin lokal yang berpengaruh pada masanya.</places:description>
+        <places:province>Sulawesi Barat</places:province>
+        <places:location>Kecamatan BangaE Ondongan, Kabupaten Majene</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>Abad ke-17</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/Qgme-Pg89yb1A2IVLL3PFcCimUc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/803313/original/069648900_1422592849-Kompleks_Makam_Raja_Banggae.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Museum Mandar Majene -->
+    <places:tour rdf:about="https://example.org/page/Museum_Mandar_Majene">
+        <rdfs:name>Museum Mandar Majene</rdfs:name>
+        <places:description>Museum Mandar di Majene, Sulawesi Barat, adalah tempat yang didedikasikan untuk melestarikan dan menampilkan berbagai benda bersejarah dari budaya Mandar. Museum ini menyimpan lebih dari 1.300 koleksi yang mencakup berbagai bidang, seperti geologi, sejarah, etnografi, biologi, dan teknologi. Koleksi-koleksinya termasuk uang kuno, keris, parang, keramik dari abad ke-12, dan artefak bersejarah lainnya yang terkait dengan kehidupan masyarakat Mandar.
+            Museum ini awalnya merupakan bangunan rumah sakit yang dibangun oleh Belanda pada tahun 1908, yang kemudian diubah menjadi museum pada tahun 1984. Bangunan museum sendiri memiliki arsitektur Eropa dengan dominasi warna kuning dan merah. Di dalamnya, pengunjung dapat melihat berbagai koleksi penting, termasuk benda-benda yang berkaitan dengan sejarah kolonial Belanda, seperti batu bata dan pipa yang digunakan pada masa itu.</places:description>
+        <places:province>Sulawesi Barat</places:province>
+        <places:location>Kecamatan Majene, Kabupaten Majene</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1984</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://asset-2.tstatic.net/sulbar/foto/bank/images/Museum-Mandar-Majene-Sulawesi-Barat-Sulbar.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kota Tua Majene -->
+    <places:tour rdf:about="https://example.org/page/Kota_Tua_Majene">
+        <rdfs:name>Kota Tua Majene</rdfs:name>
+        <places:description>Kota Tua Majene adalah sebuah area bersejarah yang terletak di Kabupaten Majene, Sulawesi Barat. Kawasan ini menjadi salah satu destinasi wisata yang menarik bagi pengunjung, mengingat nilai sejarah yang terkandung di dalamnya. Kota ini pernah menjadi pusat administrasi dan perdagangan pada masa kolonial Belanda, yang masih terlihat dari sejumlah bangunan tua yang ada, seperti rumah sakit pertama dan situs bersejarah lainnya. Di kawasan ini, juga terdapat beberapa makam kuno, situs sejarah kerajaan, serta bangunan peninggalan militer yang mencerminkan masa lalu kota ini.</places:description>
+        <places:province>Sulawesi Barat</places:province>
+        <places:location>Kecamatan Majene, Kabupaten Majene</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1926</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://dispar.sulbarprov.go.id/wp-content/uploads/2020/05/bukit-ondongan.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Benteng Baadia -->
+    <places:tour rdf:about="https://example.org/page/Benteng_Baadia">
+        <rdfs:name>Benteng Baadia</rdfs:name>
+        <places:description>Benteng Baadia adalah salah satu benteng bersejarah yang terletak di Kota Baubau, Kabupaten Buton, Sulawesi Tenggara. Benteng ini dibangun pada abad ke-16 oleh Kerajaan Buton sebagai upaya untuk mempertahankan wilayah kerajaan dari ancaman eksternal, terutama dari penjajahan Portugis dan Belanda pada masa itu. Benteng Baadia memiliki struktur yang unik, terbuat dari batu karang yang disusun rapi tanpa menggunakan semen, mencerminkan teknik konstruksi tradisional yang kuat.
+            Benteng ini memiliki peran penting dalam sejarah pertahanan Kerajaan Buton, terutama dalam menjaga keamanan wilayah kerajaan yang strategis. Selain itu, Benteng Baadia juga digunakan sebagai pusat pemerintahan dan sebagai tempat tinggal bagi raja dan keluarga kerajaan pada masa lalu.
+            Saat ini, Benteng Baadia menjadi salah satu situs wisata sejarah yang menarik bagi pengunjung yang ingin mempelajari lebih dalam tentang sejarah dan budaya Buton. Benteng ini juga menjadi simbol penting dari perjuangan dan kebesaran Kerajaan Buton di masa lalu.</places:description>
+        <places:province>Sulawesi Tenggara</places:province>
+        <places:location>Kecamatan Baubau, Kota Baubau</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>Abad ke-16</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201602011942755_b.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kompleks Gua Prasejarah Pulau Muna -->
+    <places:tour rdf:about="https://example.org/page/Kompleks_Gua_Prasejarah_Pulau_Muna">
+        <rdfs:name>Kompleks Gua Prasejarah Pulau Muna</rdfs:name>
+        <places:description>Kompleks Gua Prasejarah Pulau Muna terletak di Pulau Muna, Sulawesi Tenggara, Indonesia, dan merupakan salah satu situs arkeologis yang penting di Indonesia. Gua-gua ini digunakan oleh masyarakat prasejarah sebagai tempat tinggal, pemakaman, dan tempat untuk melakukan upacara ritual. Beberapa gua ini mengandung sisa-sisa artefak, seperti alat-alat batu, keramik, serta lukisan gua yang menggambarkan kehidupan dan kepercayaan masyarakat zaman dulu.
+            Situs ini terkenal karena menampilkan bukti-bukti kebudayaan megalitik, yang menunjukkan bahwa masyarakat pada masa itu memiliki sistem pemakaman yang kompleks dan kebudayaan yang kaya. Lukisan-lukisan di dinding gua, meskipun tidak selalu mudah dipahami, memberikan petunjuk tentang tradisi dan cara hidup manusia purba. Gua-gua di Pulau Muna juga menjadi tempat yang penting untuk mempelajari perkembangan budaya manusia purba di wilayah Indonesia.
+            Kompleks Gua Prasejarah Pulau Muna tidak hanya berfungsi sebagai situs pemakaman, tetapi juga sebagai saksi bisu bagi peradaban manusia purba yang menghabiskan waktu mereka di gua-gua tersebut, berinteraksi dengan alam dan lingkungan sekitar mereka. Hingga kini, kompleks gua ini menjadi destinasi penelitian bagi para arkeolog dan objek wisata sejarah bagi para pengunjung yang tertarik pada budaya dan sejarah Indonesia.</places:description>
+        <places:province>Sulawesi Tenggara</places:province>
+        <places:location>Kecamatan Muna, Kabupaten Muna</places:location>
+        <places:discovered>Abad ke-20</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://zonasultra.id/wp-content/uploads/2023/06/PSX_5082.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Benteng Keraton Buton -->
+    <places:tour rdf:about="https://example.org/page/Benteng_Keraton_Buton">
+        <rdfs:name>Benteng Keraton Buton</rdfs:name>
+        <places:description>Benteng Keraton Buton, juga dikenal sebagai Benteng Wolio, terletak di Kota Baubau, Sulawesi Tenggara. Dibangun pada abad ke-16 oleh Kesultanan Buton, benteng ini merupakan salah satu benteng terbesar di Asia Tenggara. Didirikan untuk mempertahankan kerajaan, benteng ini memiliki tembok tebal, struktur yang kompleks, dan menara pengawas. Selain berfungsi sebagai benteng pertahanan, Benteng Wolio juga menjadi pusat pemerintahan dan simbol kekuasaan Kesultanan Buton. Kini, benteng ini menjadi situs warisan budaya yang dilestarikan dan salah satu objek wisata bersejarah di wilayah tersebut.</places:description>
+        <places:province>Sulawesi Tenggara</places:province>
+        <places:location>Kecamatan Baubau, Kota Baubau</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>Abad ke-16</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://img.antaranews.com/cache/1200x800/2021/04/03/Benteng-Keraton-Kendari-030421-Jjn-3.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Masjid Agung Keraton Buton -->
+    <places:tour rdf:about="https://example.org/page/Masjid_Agung_Keraton_Buton">
+        <rdfs:name>Masjid Agung Keraton Buton</rdfs:name>
+        <places:description>Masjid Agung Keraton Buton adalah salah satu masjid bersejarah yang terletak di Kota Baubau, Kabupaten Buton, Sulawesi Tenggara. Masjid ini memiliki nilai sejarah yang sangat penting bagi masyarakat Buton, karena menjadi pusat kegiatan keagamaan dan budaya Islam di Kesultanan Buton sejak abad ke-16. Masjid ini dibangun pada masa Sultan Buton ke-13, yakni Sultan La Sangaji, sekitar tahun 1613. Masjid Agung Keraton Buton terletak di dalam kompleks Keraton Buton, yang merupakan pusat pemerintahan dan kekuasaan Kesultanan Buton pada masa kejayaannya. Keunikan masjid ini terletak pada desain arsitekturnya yang menggabungkan gaya tradisional Buton dengan unsur-unsur Islam. Bentuk bangunannya khas, dengan atap berbentuk limas yang menghadap ke arah kiblat, serta memiliki beberapa tiang besar yang terbuat dari kayu yang sangat kokoh. Masjid ini juga menjadi saksi sejarah dalam proses penyebaran Islam di wilayah Buton. Salah satu fitur khas dari masjid ini adalah mihrab yang memiliki ukiran-ukiran indah yang menggambarkan kebudayaan lokal, serta kaligrafi Arab yang menghiasi dinding masjid. Saat ini, Masjid Agung Keraton Buton bukan hanya digunakan untuk kegiatan ibadah, tetapi juga sebagai tempat wisata religi yang menarik banyak pengunjung, baik dari lokal maupun luar daerah.</places:description>
+        <places:province>Sulawesi Tenggara</places:province>
+        <places:location>Kecamatan Baubau, Kota Baubau</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1712</places:built> 
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://duniamasjid.islamic-center.or.id/wp-content/uploads/2014/05/masjid-agung-keraton-buton.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Istana Mini -->
+    <places:tour rdf:about="https://example.org/page/Istana_Mini">
+        <rdfs:name>Istana Mini</rdfs:name>
+        <places:description>Istana Mini di Kabupaten Maluku Tengah adalah salah satu destinasi wisata yang menarik di Maluku, Indonesia. Bangunan ini merupakan replika dari Istana Kesultanan Ternate, yang dibangun dengan arsitektur tradisional khas Maluku. Istana Mini dibangun untuk mengenang dan melestarikan sejarah Kesultanan Maluku yang memiliki nilai historis besar dalam perjuangan dan kebudayaan lokal. Terletak di Kota Masohi, ibu kota Kabupaten Maluku Tengah, Istana Mini bukan hanya berfungsi sebagai simbol sejarah, tetapi juga sebagai objek wisata budaya. Struktur istana ini menggunakan bahan-bahan tradisional dan desain yang mencerminkan kebudayaan kerajaan Maluku, lengkap dengan ornamen dan detail arsitektur yang khas. Selain sebagai wisata sejarah, Istana Mini juga berfungsi sebagai pusat edukasi bagi masyarakat dan pengunjung untuk mempelajari sejarah dan kebudayaan Kesultanan Maluku. Sebagai bagian dari upaya pelestarian budaya, tempat ini menawarkan wawasan yang lebih dalam tentang warisan kerajaan di wilayah tersebut.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kecamatan Maluku Tengah, Kabupaten Maluku Tengah</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1622</places:built> 
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/maluku-tengah/istana-mini-profile1646322848.png?x-image-process=image/resize,p_100,limit_1/imageslim</places:thumbnail>
+    </places:tour>
+
+    <!-- Tugu Dolan -->
+    <places:tour rdf:about="https://example.org/page/Tugu_Dolan">
+        <rdfs:name>Tugu Dolan</rdfs:name>
+        <places:description>Tugu Dolan adalah monumen yang terletak di Ambon, tepatnya di daerah Kudamati. Tugu ini didirikan untuk mengenang perjuangan seorang prajurit Australia, Bill Doolan, yang dikenal atas keberaniannya selama Perang Dunia II. Doolan memainkan peran penting dalam pertempuran melawan pasukan Jepang di Ambon, di mana ia berhasil mengalahkan banyak tentara Jepang sebelum akhirnya gugur ketika melindungi rekan-rekannya. Aksi heroiknya mencakup pertempuran yang membuatnya dikenal sebagai sosok yang memberi perlindungan bagi pasukannya meskipun dalam kondisi yang sangat sulit. Monumen ini juga mengingatkan pada hubungan kuat antara Australia dan Indonesia, khususnya Ambon, yang berakar dari peristiwa-peristiwa sejarah selama perang.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kecamatan Ambon, Kota Ambon</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>1967</places:built>
+        <places:category>Landmark</places:category>
+        <places:thumbnail>https://picture.triptrus.com/image/2014/06/tugu-doolan-3.jpeg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kubu Pertahanan Air Salobar -->
+    <places:tour rdf:about="https://example.org/page/Kubu_Pertahanan_Air_Salobar">
+        <rdfs:name>Kubu Pertahanan Air Salobar</rdfs:name>
+        <places:description>Kubu Pertahanan Air Salobar adalah sebuah situs bersejarah peninggalan masa Perang Dunia II yang terletak di kawasan pantai Salobar, Kota Ternate, Maluku Utara. Situs ini merupakan bagian dari jaringan pertahanan yang dibangun oleh tentara Jepang saat menduduki Indonesia, khususnya di daerah Maluku yang memiliki nilai strategis tinggi karena letaknya di jalur perairan penting. Lokasi ini dipilih untuk membangun kubu pertahanan karena pemandangan langsung ke arah laut, yang memungkinkan pemantauan aktivitas musuh yang mungkin mendekati perairan tersebut. Struktur pertahanan di Air Salobar meliputi bunker, parit pertahanan, dan benteng yang sebagian besar terbuat dari beton, dirancang untuk menahan serangan dari pasukan Sekutu. Di dalam bunker-bunker ini terdapat ruang-ruang kecil yang kemungkinan digunakan untuk menyimpan persenjataan, amunisi, dan logistik lainnya yang dibutuhkan dalam operasi pertahanan. Kini, Kubu Pertahanan Air Salobar menjadi situs wisata sejarah yang sering dikunjungi oleh wisatawan yang ingin mempelajari sejarah pendudukan Jepang di Indonesia serta menyaksikan langsung sisa-sisa peninggalan perang. Situs ini juga dianggap sebagai monumen bersejarah yang mengingatkan pada masa-masa perjuangan bangsa Indonesia dan kawasan Asia Pasifik dalam menghadapi masa pendudukan dan konflik global.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kecamatan Nusaniwe, Kota Ambon</places:location>
+        <places:discovered>-</places:discovered> 
+        <places:built>Diperkirakan pada tahun 1942-1945</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://budaya-data.kemdikbud.go.id/foto/KB/KB00/KB000518-4.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Benteng Duurstede -->
+    <places:tour rdf:about="https://example.org/page/Benteng_Duurstede">
+        <rdfs:name>Benteng Duurstede</rdfs:name>
+        <places:description>Benteng Duurstede adalah sebuah benteng bersejarah yang terletak di Pulau Saparua, Maluku. Awalnya dibangun oleh Portugis pada tahun 1676 dan kemudian diperkuat dan direnovasi oleh Gubernur Ambon, Mr. N. Schaghen, pada tahun 1691. Benteng ini memiliki fungsi ganda sebagai benteng pertahanan dan pusat pemerintahan VOC di wilayah Saparua. Pada tahun 1817, benteng ini menjadi saksi perjuangan rakyat Saparua yang dipimpin oleh Kapitan Pattimura. Pasukan Pattimura berhasil menguasai benteng tersebut, namun VOC kembali merebutnya setelah pengiriman pasukan besar pada November 1817. Benteng Duurstede memainkan peran penting dalam sejarah perlawanan terhadap penjajahan Belanda di Maluku.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kecamatan Maluku Tengah, Kabupaten Maluku Tengah</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1676</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://asset-2.tstatic.net/ambon/foto/bank/images/benteng-duurstede11.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Gereja Tua Neira -->
+    <places:tour rdf:about="https://example.org/page/Gereja_Tua_Neira">
+        <rdfs:name>Gereja Tua Neira</rdfs:name>
+        <places:description>Gereja Tua Neira, yang terletak di Pulau Neira, Kepulauan Banda, Maluku Tengah, adalah salah satu gereja tertua di Indonesia, dibangun pada abad ke-17 selama masa penjajahan Belanda. Gereja ini menjadi saksi sejarah perdagangan rempah-rempah yang membawa Kepulauan Banda ke pusat perhatian dunia. Gaya arsitektur Gereja Tua Neira mencerminkan desain kolonial klasik, dengan struktur bangunan berbahan batu dan kayu yang kokoh. Interiornya sederhana namun megah, dengan langit-langit tinggi, jendela-jendela besar, dan bangku kayu panjang khas gereja Eropa pada masa itu. Selain berfungsi sebagai tempat ibadah, Gereja Tua Neira menjadi saksi banyak peristiwa penting di Banda, termasuk berbagai upaya perlawanan penduduk lokal terhadap penjajahan Belanda. Di sekitar gereja, terdapat pemakaman tua dengan batu nisan bertuliskan nama-nama pejabat dan warga Belanda yang pernah tinggal di Banda, menambah nilai sejarah tempat ini. Saat ini, Gereja Tua Neira adalah objek wisata sejarah dan budaya yang menarik banyak pengunjung, baik untuk melihat arsitekturnya yang khas maupun untuk memahami sejarah perdagangan rempah-rempah di Indonesia.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kecamatan Banda, Kabupaten Maluku Tengah</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1873</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/06/20/3418090456.jpeg</places:thumbnail>
+    </places:tour>
+
+    <!-- Benteng Nieuw Victoria -->
+    <places:tour rdf:about="https://example.org/page/Benteng_Nieuw_Victoria">
+        <rdfs:name>Benteng Nieuw Victoria</rdfs:name>
+        <places:description>Benteng Nieuw Victoria adalah sebuah benteng bersejarah yang terletak di Pulau Bangka, Indonesia. Benteng ini dibangun oleh pihak Belanda pada abad ke-19, tepatnya sekitar tahun 1812, dengan tujuan untuk memperkuat pertahanan mereka di wilayah yang strategis ini. Nama "Nieuw Victoria" sendiri berasal dari nama Ratu Victoria yang memerintah Belanda pada saat itu. Benteng ini terletak di sebuah bukit dengan pemandangan yang cukup luas, yang memudahkan penjagaan terhadap wilayah sekitar. Benteng tersebut memiliki struktur bangunan yang cukup kokoh, dengan dinding tebal dan beberapa ruang pertahanan yang digunakan untuk menyimpan senjata dan meriam. Meskipun sudah mengalami kerusakan akibat faktor usia dan kondisi alam, Benteng Nieuw Victoria tetap menjadi saksi bisu sejarah kolonial Belanda di Indonesia. Kini, benteng ini menjadi salah satu objek wisata sejarah di Pulau Bangka yang menarik minat wisatawan untuk belajar lebih banyak tentang sejarah kolonial dan perjuangan rakyat Indonesia.</places:description>
+        <places:province>Maluku</places:province>
+        <places:location>Kec. Sirimau, Kota Ambon</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1575</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://pergiyuk.com/wp-content/uploads/2023/02/Benteng-Nieuw-Victoria.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Masjid Kesultanan Ternate -->
+    <places:tour rdf:about="https://example.org/page/Masjid_Kesultanan_Ternate">
+        <rdfs:name>Masjid Kesultanan Ternate</rdfs:name>
+        <places:description>Masjid Kesultanan Ternate, juga dikenal sebagai Masjid Sultan Ternate, memiliki sejarah panjang yang terkait erat dengan kesultanan Ternate. Dibangun pada tahun 1679, masjid ini awalnya terbuat dari kayu dan disebut Sigi Lamo. Seiring berjalannya waktu, bangunan ini mengalami beberapa kali pemugaran, termasuk perubahan material menjadi batu, dan atap yang tadinya hanya terdiri dari tiga tumpang, diperluas menjadi lima tumpang pada tahun 1818. Arsitektur masjid ini sangat khas dengan desain atap bertumpang yang menambah keunikannya. Masjid ini memiliki berbagai aturan dan tradisi khas, seperti larangan bagi wanita untuk masuk ke dalam masjid, serta ritual adzan yang dikumandangkan oleh empat muazin yang mewakili wilayah berbeda di Ternate. Salah satu tradisi unik lainnya adalah Malam Qunut yang diadakan pada malam ke-16 Ramadan, di mana Sultan dan keluarganya melakukan upacara khusus di masjid.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Ternate, Kota Ternate</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1606</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://indonesiakaya.com/wp-content/uploads/2020/10/covermasjid11.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Jembatan Residen -->
+    <places:tour rdf:about="https://example.org/page/Jembatan_Residen">
+        <rdfs:name>Jembatan Residen</rdfs:name>
+        <places:description>Jembatan Residen di Kota Ternate, Maluku Utara, merupakan sebuah jembatan bersejarah yang dibangun pada tahun 1811. Jembatan ini telah menjadi bagian penting dari cagar budaya yang kini sedang dalam proses rehabilitasi. Pemerintah setempat mengalokasikan dana sebesar Rp 580 juta dari APBD 2023 untuk melakukan perbaikan, khususnya pada atap bangunan ruang tunggu di jembatan tersebut. Proyek ini bertujuan untuk menjadikannya sebagai destinasi wisata sejarah yang menarik, serta melestarikan nilai-nilai budaya yang terkandung dalam struktur jembatan tersebut.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Ternate, Kota Ternate</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1811</places:built>
+        <places:category>Landmark (Monumen/Jembatan/Patung)</places:category>
+        <places:thumbnail>https://lh3.googleusercontent.com/p/AF1QipOi857QAKTOn1pCGJ2PGsHYYXFqYPcGRytHTE9Y=s680-w680-h510</places:thumbnail>
+    </places:tour>
+
+    <!-- Makam Sultan Babullah -->
+    <places:tour rdf:about="https://example.org/page/Makam_Sultan_Babullah">
+        <rdfs:name>Makam Sultan Babullah</rdfs:name>
+        <places:description>Makam Sultan Babullah terletak di Kota Ternate, Maluku, dan merupakan situs bersejarah yang sangat penting bagi sejarah Kesultanan Ternate. Sultan Babullah adalah salah satu penguasa paling terkenal dari Kesultanan Ternate pada abad ke-16 yang memerintah antara 1570 hingga 1583. Di bawah pemerintahannya, Ternate mencapai puncak kejayaan, dikenal karena kekuatan militernya dan hubungan diplomatik dengan banyak negara, termasuk Spanyol dan Portugis. Makam Sultan Babullah terletak di kaki Gunung Gamalama, dan menjadi tempat ziarah bagi umat Muslim, terutama bagi mereka yang memiliki ikatan sejarah dengan Kesultanan Ternate. Selain sebagai situs pemakaman, makam ini juga memiliki nilai sejarah dan simbolis yang mendalam, karena Sultan Babullah adalah sosok penting yang berhasil mempertahankan kemerdekaan Ternate dari penjajahan Eropa. Selain makam, kompleks ini juga berisi makam-makam lainnya yang terkait dengan keluarga kerajaan Ternate dan anggota penting lainnya dari kerajaan tersebut.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Ternate, Kota Ternate</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1583</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://phinemo.com/wp-content/uploads/2015/07/sultan-babullah.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Keraton Sultan Ternate -->
+    <places:tour rdf:about="https://example.org/page/Keraton_Sultan_Ternate">
+        <rdfs:name>Keraton Sultan Ternate</rdfs:name>
+        <places:description>Keraton Sultan Ternate adalah istana kerajaan yang terletak di Kota Ternate, Maluku Utara, Indonesia. Keraton ini merupakan pusat pemerintahan Kesultanan Ternate, salah satu kerajaan Islam yang berpengaruh di wilayah Maluku pada abad ke-15 hingga abad ke-19. Keraton ini dibangun dengan arsitektur khas yang menggabungkan elemen-elemen tradisional Ternate dengan pengaruh budaya Arab dan Eropa. Bangunannya terletak di atas bukit dengan pemandangan yang indah menghadap ke laut, serta dikelilingi oleh tembok tinggi sebagai pelindung. Di dalam kompleks keraton terdapat berbagai ruang penting, termasuk ruang istana yang digunakan oleh sultan dan keluarganya, ruang pertemuan, serta tempat penyimpanan benda-benda bersejarah dan kebudayaan kerajaan. Keraton Sultan Ternate juga menjadi tempat penyimpanan warisan budaya, seperti peninggalan kerajaan dan senjata tradisional. Saat ini, Keraton Sultan Ternate menjadi objek wisata sejarah yang penting.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Ternate Utara, Kota Ternate</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1813</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/11/3093622447.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Kedaton Sultan Tidore -->
+    <places:tour rdf:about="https://example.org/page/Kedaton_Sultan_Tidore">
+        <rdfs:name>Kedaton Sultan Tidore</rdfs:name>
+        <places:description>Kedaton Sultan Tidore, yang terletak di Kota Tidore, Maluku Utara, adalah bangunan bersejarah yang menjadi pusat dari Kesultanan Tidore, salah satu kerajaan Islam berpengaruh di wilayah timur Indonesia. Kedaton ini didirikan di atas bukit dengan pemandangan langsung ke laut, yang memperlihatkan posisi strategisnya dalam menjaga kawasan perairan Maluku. Halaman depan Kedaton dihiasi dengan taman dan meriam peninggalan masa kolonial. Interior Kedaton ini juga menyimpan koleksi benda-benda bersejarah, termasuk pakaian adat, senjata tradisional, dan artefak kerajaan lainnya.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Tidore, Kota Tidore Kepulauan</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1811</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kadato_Kie.jpg/640px-Kadato_Kie.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Benteng Kalamata -->
+    <places:tour rdf:about="https://example.org/page/Benteng_Kalamata">
+        <rdfs:name>Benteng Kalamata</rdfs:name>
+        <places:description>Benteng Kalamata adalah sebuah benteng pertahanan yang dibangun oleh penjajah Portugis pada abad ke-16 dan terletak di Kota Ternate, Maluku Utara. Benteng ini dibangun di atas bukit, menawarkan pemandangan luas ke laut, dan berfungsi untuk melindungi kawasan tersebut dari serangan musuh. Benteng Kalamata kini menjadi situs bersejarah yang penting bagi wisatawan yang tertarik dengan sejarah kolonialisme di Indonesia.</places:description>
+        <places:province>Maluku Utara</places:province>
+        <places:location>Kecamatan Ternate Selatan, Kota Ternate</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1540</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://cdn.idntimes.com/content-images/community/2022/05/benteng-kalamata-mitsnain-e08c9dc5918acd4505a300b21f6394a3-b1fbb471266c16fb7ec143b6c6333187_600x400.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Tugu Peringatan Pendaratan Tentara Sekutu -->
+    <places:tour rdf:about="https://example.org/page/Tugu_Peringatan_Pendaratan_Tentara_Sekutu">
+        <rdfs:name>Tugu Peringatan Pendaratan Tentara Sekutu</rdfs:name>
+        <places:description>Tugu Peringatan Pendaratan Tentara Sekutu terletak di Hamadi, Distrik Jayapura Selatan, Papua. Tugu ini dibangun untuk memperingati pendaratan pasukan Sekutu di Papua pada tahun 1944, yang merupakan bagian dari kampanye pembebasan wilayah ini dari penjajahan Jepang. Tugu ini menjadi simbol perjuangan dalam Perang Pasifik.</places:description>
+        <places:province>Papua</places:province>
+        <places:location>Kecamatan Jayapura Utara, Kota Jayapura</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1944</places:built>
+        <places:category>Landmark (Monumen/Jembatan/Patung)</places:category>
+        <places:thumbnail>https://ekrafkotajayapura.id/assets/images/fb0285e68692ecaddc814e5109552fe1.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Tangki Minyak Pada Perang Dunia II -->
+    <places:tour rdf:about="https://example.org/page/Tangki_Minyak_Perang_Dunia_II">
+        <rdfs:name>Tangki Minyak Pada Perang Dunia II (eks.)</rdfs:name>
+        <places:description>Tangki minyak pada Perang Dunia II (eks.) adalah sisa-sisa fasilitas penyimpanan bahan bakar yang dibangun oleh pihak Jepang selama pendudukan mereka di Indonesia. Beberapa tangki yang ditemukan di Indonesia masih berdiri hingga saat ini sebagai monumen bersejarah. Keberadaan tangki-tangki minyak ini mencerminkan pentingnya logistik perang selama masa pendudukan Jepang.</places:description>
+        <places:province>Papua</places:province>
+        <places:location>Kecamatan Heram, Kabupaten Jayapura</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>Diperkirakan pada tahun 1944</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://jubi.id/wp-content/uploads/2022/08/Dam-tanki-minyak-perang-Pasifik-di-Depapre.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Megalit Tutari Doyo Lama -->
+    <places:tour rdf:about="https://example.org/page/Megalit_Tutari_Doyo_Lama">
+        <rdfs:name>Megalit Tutari Doyo Lama</rdfs:name>
+        <places:description>Megalit Tutari Doyo Lama adalah situs megalitik yang terletak di Papua dan dikenal sebagai salah satu situs megalitik tertua di wilayah tersebut. Diperkirakan, situs ini berasal dari sekitar 6000 tahun yang lalu dan merupakan peninggalan suku Tutari. Batu-batu megalitik ini memiliki makna simbolis, termasuk pertempuran antara suku Tutari dan Ebe yang menyebabkan kepunahan suku Tutari.</places:description>
+        <places:province>Papua</places:province>
+        <places:location>Kecamatan Doyo Lama, Kabupaten Jayapura</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>Diperkirakan pada abad 12-13 Masehi</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://a.cdn-myedisi.com/z_article/haloindonesia-6232eebbcb535.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Tugu Mac Arthur -->
+    <places:tour rdf:about="https://example.org/page/Tugu_Mac_Arthur">
+        <rdfs:name>Tugu Mac Arthur</rdfs:name>
+        <places:description>Tugu MacArthur adalah monumen bersejarah yang terletak di Ifar Gunung, Distrik Sentani, Kabupaten Jayapura, Papua. Monumen ini didirikan untuk mengenang Jenderal Douglas MacArthur, seorang jenderal terkenal dari Amerika Serikat yang memimpin pasukan Sekutu di kawasan Pasifik selama Perang Dunia II. Pada tahun 1944, MacArthur menjadikan Ifar Gunung sebagai salah satu markas strategis dalam kampanyenya untuk mengalahkan Jepang di Pasifik. Tugu ini berdiri di lokasi yang dulunya merupakan markas komando militer MacArthur, dan tempat ini memiliki pemandangan yang menakjubkan ke arah Danau Sentani. Monumen ini berbentuk sederhana, tetapi dilengkapi dengan informasi mengenai peran Papua dalam Perang Dunia II serta perjalanan militer MacArthur di wilayah tersebut. Di sekitar tugu, terdapat papan informasi yang menjelaskan latar belakang sejarah tempat ini, termasuk bagaimana Ifar Gunung menjadi titik penting dalam strategi perang Sekutu.</places:description>
+        <places:province>Papua</places:province>
+        <places:location>Kecamatan Sentani, Kabupaten Jayapura</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1944</places:built>
+        <places:category>Landmark</places:category>
+        <places:thumbnail>https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/morotai/monumen-mac-arthur-profile1640857967.jpeg?x-image-process=image/resize,p_100,limit_1/imageslim</places:thumbnail>
+    </places:tour>
+
+    <!-- Pulau Mansinam -->
+    <places:tour rdf:about="https://example.org/page/Pulau_Mansinam">
+        <rdfs:name>Pulau Mansinam</rdfs:name>
+        <places:description>Pulau Mansinam adalah sebuah pulau kecil yang terletak di perairan Teluk Dore, dekat dengan Kota Manokwari, Provinsi Papua Barat, Indonesia. Pulau ini memiliki sejarah yang sangat penting dalam konteks perkembangan agama Kristen di Indonesia, terutama di Papua. Pulau Mansinam dikenal sebagai tempat pertama kali kedatangan misionaris dari Belanda, yaitu Albertus Christoffel, pada tahun 1855. Di Pulau Mansinam, terdapat sebuah tugu yang dibangun untuk mengenang peristiwa bersejarah tersebut, yang menjadi simbol penyebaran agama Kristen di wilayah Papua. Selain itu, pulau ini juga menjadi tempat perayaan Natal dan berbagai kegiatan keagamaan lainnya yang dilakukan oleh masyarakat setempat. Pulau Mansinam memiliki pemandangan yang indah dan dikelilingi oleh air laut yang jernih, menjadikannya sebagai salah satu destinasi wisata yang menarik bagi wisatawan yang berkunjung ke Manokwari. Selain nilai sejarah, pulau ini juga memiliki keindahan alam yang menarik, dengan pantai yang indah dan hutan tropis yang masih alami. Secara keseluruhan, Pulau Mansinam adalah situs bersejarah yang memiliki makna penting dalam sejarah agama Kristen di Papua, dan menjadi simbol perjuangan misionaris yang menyebarkan agama Kristen di wilayah tersebut.</places:description>
+        <places:province>Papua Barat</places:province>
+        <places:location>Kecamatan Manokwari Timur, Kabupaten Manokwari</places:location>
+        <places:discovered>1855</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://cdn.rri.co.id/berita/66/images/1707128615361-F/she9k0kbjda1zuc.jpeg</places:thumbnail>
+    </places:tour>
+
+    <!-- Situs Purbakala Tapurarang -->
+    <places:tour rdf:about="https://example.org/page/Situs_Purbakala_Tapurarang">
+        <rdfs:name>Situs Purbakala Tapurarang</rdfs:name>
+        <places:description>Situs Purbakala Kokas adalah situs purbakala yang terletak di Distrik Kokas, Kabupaten Fakfak Papua Barat. Di tempat ini ditemukan berbagai cap tangan berwarna merah yang terlukis pada dinding-dinding batu di tebing dan gua yang terletak di pinggir laut. Objek wisata arkeologi ini dikenal sebagai situs purbakala Kokas atau oleh masyarakat setempat biasa disebut dengan nama Tapurarang. Karena warna merah pada lukisan cap tangan di tebing tersebut menyerupai warna darah manusia, masyarakat setempat juga sering menyebut Tapurarang sebagai lukisan cap tangan darah.</places:description>
+        <places:province>Papua Barat</places:province>
+        <places:location>Kecamatan Fakfak Timur, Kabupaten Fakfak</places:location>
+        <places:discovered>1980-an</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://cdn.rri.co.id/berita/Fak_Fak/o/1717471244025-situs-purbakala-tapurarang/bluyovwe1nxk98f.jpeg</places:thumbnail>
+    </places:tour>
+
+    <!-- Masjid Tua Patimburak -->
+    <places:tour rdf:about="https://example.org/page/Masjid_Tua_Patimburak">
+        <rdfs:name>Masjid Tua Patimburak</rdfs:name>
+        <places:description>Masjid Tua Patimburak adalah sebuah masjid tua bersejarah yang terletak di Kampung Patimburak, Distrik Kokas, Fakfak, Papua Barat. Masjid ini merupakan salah satu peninggalan sejarah Islam di Papua dan menjadi salah satu pusat agama Islam di Kabupaten Fakfak. Beberapa literatur sejarah Papua menyebutkan bahwa di tempat inilah awal pertama peradaban Papua dimulai dengan masuknya Islam di Fakfak dengan dibangunnya masjid ini.</places:description>
+        <places:province>Papua Barat</places:province>
+        <places:location>Kecamatan Fakfak, Kabupaten Fakfak</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1870</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/MM8OU99DyXNVUfiSlekaock-zOw=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2232391/original/013815800_1527668713-fakfak.JPG</places:thumbnail>
+    </places:tour>
+
+    <!-- Situs Kampung Tua Mosandurei -->
+    <places:tour rdf:about="https://example.org/page/Situs_Kampung_Tua_Mosandurei">
+        <rdfs:name>Situs Kampung Tua Mosandurei</rdfs:name>
+        <places:description>Situs Kampung Tua Mosandurei ditemukan di Distrik Napan, Kabupaten Nabire, Provinsi Papua. Situs ini diperkirakan merupakan pemukiman kuno yang terletak di lokasi strategis dekat sumber air tawar dan pantai. Penemuan ini melibatkan artefak seperti alat batu, manik-manik, dan keramik Cina dari Dinasti Ming dan Qing, serta keramik Eropa dari abad ke-16 hingga 18. Situs ini juga mengungkapkan sisa makanan berupa cangkang moluska laut dan tulang binatang, yang menunjukkan aktivitas pemukiman yang terkait dengan perdagangan dan sumber daya alam sekitar. Penemuan ini menambah wawasan tentang jaringan perdagangan yang melibatkan Kesultanan Tidore.</places:description>
+        <places:province>Papua Tengah</places:province>
+        <places:location>Kecamatan Nabire, Kabupaten Nabire</places:location>
+        <places:discovered>2015</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://img.antaranews.com/cache/1200x800/2016/01/20160124situs_kampung_tua_mosandurei_di_nabire600.png</places:thumbnail>
+    </places:tour>
+
+    <!-- Bukit Meriam -->
+    <places:tour rdf:about="https://example.org/page/Bukit_Meriam">
+        <rdfs:name>Bukit Meriam</rdfs:name>
+        <places:description>Bukit Meriam di Nabire, Papua, adalah situs bersejarah yang dikenal dengan peninggalan meriam bekas tentara Jepang dari Perang Dunia II. Meriam ini ditemukan sekitar tahun 1996-1997 di Bukit Meriam saat pembangunan jalan dari Bandara Nabire menuju Karang Tumaritis. Meriam tersebut merupakan senjata anti-pesawat atau anti-tank kaliber 25mm yang digunakan Jepang pada masa Perang Dunia II di Papua, yang diduga digunakan untuk melawan pasukan Sekutu. Keberadaan meriam ini sebenarnya sudah lama diketahui oleh warga setempat, meskipun tidak ada catatan jelas mengenai siapa yang pertama kali menemukannya.</places:description>
+        <places:province>Papua Tengah</places:province>
+        <places:location>Kecamatan Nabire, Kabupaten Nabire</places:location>
+        <places:discovered>1996</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://www.nabire.net/wp-content/uploads/2019/11/PHOTO-2019-11-01-13-31-33.jpg</places:thumbnail>
+    </places:tour>
+
+    <!-- Penjara Situs Boven Digoel -->
+    <places:tour rdf:about="https://example.org/page/Penjara_Situs_Boven_Digoel">
+        <rdfs:name>Penjara Situs Boven Digoel</rdfs:name>
+        <places:description>Penjara Boven Digoel, yang terletak di Papua, merupakan situs bersejarah yang penting dalam sejarah Indonesia, khususnya selama masa penjajahan Belanda. Pada tahun 1927, pemerintah kolonial Belanda mendirikan kamp pengasingan ini di daerah terpencil di tepi Sungai Digul, dekat Tanah Merah, dengan tujuan menahan para tahanan politik, termasuk tokoh-tokoh pergerakan kemerdekaan Indonesia. Banyak dari mereka yang terlibat dalam pemberontakan PKI 1926 dan dianggap sebagai ancaman oleh pemerintah kolonial. Boven Digoel dikenal karena kondisi yang sangat keras dan isolasi ekstrem, dengan hutan lebat di sekelilingnya yang membuat pelarian hampir tidak mungkin. Para tahanan ditempatkan di beberapa kamp, termasuk Tanah Merah dan Tanah Tinggi, di mana mereka dipaksa untuk bekerja dalam kondisi yang buruk, sering kali tanpa cukup makanan atau perawatan medis yang memadai. Situs ini juga menjadi tempat bagi banyak tokoh nasional, seperti Bung Hatta, yang diasingkan di sana pada 1930-an.</places:description>
+        <places:province>Papua Selatan</places:province>
+        <places:location>Kecamatan Boven Digoel, Kabupaten Boven Digoel</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>Didirikan 1927</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/qd7JEL9c0AbeAfX3Dak_Ffy0rgA=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3607797/original/092318100_1634711432-WhatsApp_Image_2021-10-06_at_20.59.24.jpeg</places:thumbnail>
+    </places:tour>
+
+</rdf:RDF>  
