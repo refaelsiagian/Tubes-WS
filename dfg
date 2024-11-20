@@ -1,8 +1,0 @@
-# Membaca isi file SQL yang diunggah oleh pengguna
-file_path = '/mnt/data/inventorygudang.sql'
-
-with open(file_path, 'r', encoding='utf-8') as file:
-    sql_content = file.read()
-
-# Menampilkan beberapa baris pertama untuk mendapatkan gambaran kontennya
-sql_content[:1000]  # Menampilkan cuplikan pertama dari file SQL
