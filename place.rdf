@@ -7,7 +7,435 @@
     xmlns:dc="http://purl.org/dc/terms/"
     xmlns:places="https://example.org/schema/places">
 
-<<<<<<< Updated upstream
+    <places:tour rdf:about="https://example.org/page/museum_kereta_api_ambarawa">
+        <rdfs:name>Museum Kereta Api Ambarawa</rdfs:name>
+        <places:description>Museum ini dikenal karena koleksi lokomotif uap bersejarahnya, termasuk lokomotif dengan sistem gigi yang digunakan di jalur bergigi (jalur rel bergerigi untuk medan yang curam) yang unik dan masih berfungsi. Salah satu daya tarik utama di museum ini adalah wisata kereta uap yang membawa pengunjung menyusuri pemandangan indah sekitar Rawa Pening hingga ke Stasiun Bedono.</places:description>
+        <places:province>Jawa Tengah</places:province>
+        <places:location>Jl. Temenggungan 8, Temanggungan, Panjang DAN Kec. Ambarawa, Kabupaten Semarang</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1873</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://nagantour.com/wp-content/uploads/2023/11/Museum-Kereta-Api-Ambarawa.webp</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Candi_Borobudur">
+        <rdfs:name>Candi Borobudur</rdfs:name>
+        <places:description>Borobudur merupakan mahakarya arsitektur dan seni Buddha yang megah. Candi ini memiliki bentuk menyerupai punden berundak dan terdiri dari sembilan tingkat bertumpuk, yang di puncaknya terdapat stupa besar dikelilingi oleh 72 stupa berisi patung Buddha. Relief di dinding Borobudur mengisahkan ajaran Buddha, termasuk kehidupan Sang Buddha dan prinsip-prinsip dharma. Candi ini mencerminkan konsep kosmologi Buddha, yaitu perjalanan spiritual dari dunia manusia menuju pencerahan.</places:description>
+        <places:province>Jawa Tengah</places:province>
+        <places:location>Jalan Badrawati, Kw. Candi Borobudur, Borobudur DAN Kecamatan Borobudur, Kabupaten Magelang</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-8 dan ke-9 Masehi</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://superlive.id/storage/superadventure/2018/04/17/615aa236a40e.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Candi_Prambanan">
+        <rdfs:name>Candi Prambanan</rdfs:name>
+        <places:description>Candi utama dalam kompleks ini adalah Candi Siwa yang memiliki tinggi 47 meter dan dihiasi dengan relief yang menceritakan epos Ramayana. Selain Candi Siwa, terdapat juga candi-candi utama lainnya, yaitu Candi Brahma dan Candi Wisnu, yang dikelilingi oleh ratusan candi kecil atau candi perwara.</places:description>
+        <places:province>Jawa Tengah</places:province>
+        <places:location>Jalan Raya Solo- Yogyakarta Nomor 16 Kranggan, Bokoharjo DAN Kecamatan Prambanan, Kebupaten Sleman</places:location>
+        <places:discovered></places:discovered>
+        <places:built>abad ke-9</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://i0.wp.com/fahum.umsu.ac.id/wp-content/uploads/2024/02/Sejarah-Candi-Prambanan-serta-Fungsinya.jpg?fit=1366%2C768&ssl=1</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_TNI_AD">
+        <rdfs:name>Museum TNI AD</rdfs:name>
+        <places:description>Museum Pusat TNI AD "Dharma Wiratama" Yogyakarta adalah sebuah museum khusus yang menyimpan dan memamerkan berbagai koleksi terkait sejarah perjuangan TNI Angkatan Darat dalam mempertahankan kemerdekaan Indonesia.</places:description>
+        <places:province>DI Yogyakarta</places:province>
+        <places:location>Jl. Jend. Sudirman No.75, Terban, Kec. Gondokusuman, Kota Yogyakarta</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>30 Agustus 1982</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://kebudayaan.jogjakota.go.id/assets/instansi/kebudayaan/article/20190701193001.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Keraton_Yogyakarta">
+        <rdfs:name>Keraton Yogyakarta</rdfs:name>
+        <places:description>Keraton Yogyakarta juga merupakan pusat kegiatan budaya seperti pertunjukan seni tradisional, ritual adat, dan upacara-upacara kerajaan. Pengunjung dapat melihat koleksi benda-benda pusaka kerajaan, kostum tradisional, dan artefak yang menggambarkan sejarah panjang Kesultanan Yogyakarta.</places:description>
+        <places:province>DI Yogyakarta</places:province>
+        <places:location>Jl. Rotowijayan Blok No. 1, Panembahan, Kecamatan Kraton, Kota Yogyakarta</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1755</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://kebudayaan.jogjakota.go.id/assets/instansi/kebudayaan/gallery/page_20210805_064132.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Sonobudoyo">
+        <rdfs:name>Museum Sonobudoyo</rdfs:name>
+        <places:description>Museum ini juga terkenal karena arsitekturnya yang bergaya tradisional Jawa dengan pengaruh arsitektur Hindu dan Jawa klasik. Di malam hari, museum ini menawarkan pertunjukan wayang kulit bagi para pengunjung, yang memungkinkan mereka merasakan budaya Jawa secara langsung. Museum Sonobudoyo adalah salah satu museum penting untuk memahami sejarah dan perkembangan budaya Jawa di Nusantara.</places:description>
+        <places:province>DI Yogyakarta</places:province>
+        <places:location>Jl. Pangurakan No.6, Ngupasan, Kec. Gondomanan, Kota Yogyakarta</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1935</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://nagantour.com/wp-content/uploads/2023/06/Museum-Sonobudoyo-Yogyakarta-scaled.webp</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Trowulan">
+        <rdfs:name>Trowulan</rdfs:name>
+        <places:description>Trowulan merupakan bekas ibu kota Kerajaan Majapahit, yang pernah menjadi salah satu kerajaan terbesar di Indonesia pada abad ke-14 hingga awal abad ke-15. Situs ini dikenal karena reruntuhan candi, patung, dan artefak yang ditemukan, yang memberikan gambaran tentang kebudayaan dan peradaban Majapahit. Beberapa situs penting di Trowulan termasuk Candi Tikus, Candi Bajang Ratu, dan gerbang-gerbang megah yang menunjukkan kejayaan kerajaan tersebut.</places:description>
+        <places:province>Jawa Timur</places:province>
+        <places:location>Jalan Pendopo Agung, Ngelinguk, Trowulan, Kecamatan Trowulan, Kabupaten Mojokerto</places:location>
+        <places:discovered>abad ke-19</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/YzVYlpG4U3VkQY8bAbw0bVm3VeI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2875397/original/092167500_1565164733-iStock-933379748.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Benteng_Van_den_Bosch">
+        <rdfs:name>Benteng Van den Bosch</rdfs:name>
+        <places:description>Benteng Van den Bosch adalah saksi bisu dari masa lalu kolonial Indonesia. Benteng ini mengingatkan kita akan perjuangan bangsa Indonesia dalam merebut kemerdekaan. Selain itu, benteng ini juga menyimpan banyak cerita dan misteri yang menarik untuk diungkap.</places:description>
+        <places:province>Jawa Timur</places:province>
+        <places:location>Jl. Untung Suropati No.II, Pelem II, Pelem, Kec. Ngawi, Kabupaten Ngawi</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1845</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/17/Benteng-van-den-bosch-tampak-atas-2.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Mpu_Tantular">
+        <rdfs:name>Museum Mpu Tantular</rdfs:name>
+        <places:description>Museum Mpu Tantular merupakan salah satu museum tertua dan terlengkap di Jawa Timur. Sejarah berdirinya museum ini sangat menarik dan penuh dengan perubahan. Museum ini menyimpan berbagai koleksi benda-benda bersejarah, terutama yang berkaitan dengan Sastra Jawa Kuno.</places:description>
+        <places:province>Jawa Timur</places:province>
+        <places:location>Jl. Raya Buduran - Jembatan Layang, Bedrek, Siwalanpanji, Kec. Buduran, Kabupaten Sidoarjo</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1933</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://dbijapkm3o6fj.cloudfront.net/resources/12653,1004,1,1,4,0,600,450/-4601-/20170302165908/musium-mpu-tantular.jpeg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Pura_Besakih">
+        <rdfs:name>Pura Besakih</rdfs:name>
+        <places:description>Pura Besakih adalah kompleks pura terbesar dan paling suci di Bali. Sering disebut sebagai "Ibu dari Semua Pura", Pura Besakih terletak di lereng Gunung Agung, gunung tertinggi di Bali. Kompleks ini terdiri dari banyak pura yang saling berhubungan, masing-masing memiliki fungsi dan dewa yang dipuja.</places:description>
+        <places:province>Bali</places:province>
+        <places:location>Besakih, Kec. Rendang, Kabupaten Karangasem</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1284</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bali%2C_Pura_Besakih_6.jpg/1280px-Bali%2C_Pura_Besakih_6.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Monumen_Bajra_Sandhi">
+        <rdfs:name>Monumen Bajra Sandhi</rdfs:name>
+        <places:description>monumen ini didirikan sebagai penghormatan kepada para pahlawan dan sebagai lambang semangat juang rakyat Bali dalam mempertahankan kemerdekaan Indonesia. Monumen Bajra Sandhi bukan hanya sekadar bangunan, tetapi juga merupakan simbol identitas dan semangat juang rakyat Bali.</places:description>
+        <places:province>Bali</places:province>
+        <places:location>Jalan Raya Puputan No.142, Sumerta Kelod, Kecamatan Denpasar Timur, Kota Denpasar</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1981</places:built>
+        <places:category>Landmark</places:category>
+        <places:thumbnail>https://arvitour.com/wp-content/uploads/2022/01/Bajra-Sandhi-Monument-and-museum.jpg.webp</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Taman_Ayun">
+        <rdfs:name>Taman Ayun</rdfs:name>
+        <places:description>Pura Taman Ayun dibangun pada abad ke-17 oleh Raja Mengwi I Gusti Agung Putu. Awalnya, pura ini berfungsi sebagai tempat pemujaan leluhur raja-raja Mengwi. Seiring berjalannya waktu, Pura Taman Ayun menjadi pusat keagamaan dan kebudayaan masyarakat sekitar.</places:description>
+        <places:province></places:province>
+        <places:location>Jl. Ayodya No.10, Mengwi, Kec. Mengwi, Kabupaten Badung</places:location>
+        <places:discovered>abad ke-17</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Desa/Wilayah Bersejarah</places:category>
+        <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxAXBdvH7GsFeg9Cn6otCQZqPJXA91V3OUA&s</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Masjid_Kuno_Bayan_Beleq">
+        <rdfs:name>Masjid Kuno Bayan Beleq</rdfs:name>
+        <places:description>Masjid Kuno Bayan Beleq adalah salah satu masjid tertua dan paling bersejarah di Pulau Lombok, Nusa Tenggara Barat. Masjid ini bukan hanya sekadar tempat ibadah, tetapi juga menjadi saksi bisu perkembangan Islam di pulau Lombok dan merupakan bagian penting dari warisan budaya masyarakat setempat.</places:description>
+        <places:province>Nusa Tenggara Barat</places:province>
+        <places:location>jalan Labuan lombok, desa Bayan, jalan Labuan lombok, desa Bayan</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-16</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/04/08/masjid-bayan-beleq-metamorfosa-co-64316d784addee76ff2d4b32.jpg?t=o&v=800</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Istana_Dalam_Loka">
+        <rdfs:name>Istana Dalam Loka</rdfs:name>
+        <places:description>Dibangun pada tahun 1885 oleh Sultan Muhammad Jalaluddin Syah III, istana ini menjadi pusat pemerintahan dan kediaman raja-raja Kesultanan Sumbawa. Dengan arsitektur khas rumah panggung dan ukiran-ukiran yang indah, Istana Dalam Loka mencerminkan kemegahan dan kekayaan budaya Kesultanan Sumbawa.</places:description>
+        <places:province>Nusa Tenggara Barat</places:province>
+        <places:location>SeketengKec. Sumbawa, Kabupaten Sumbawa</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1885</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://yourtrip.id/wp-content/uploads/2022/08/Istana-Dalam-Loka.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Negeri_NTB">
+        <rdfs:name>Museum Negeri NTB</rdfs:name>
+        <places:description>Museum ini memiliki koleksi yang sangat beragam, mulai dari artefak sejarah, benda-benda peninggalan kerajaan, koleksi biologi, geologi, hingga hasil karya seni masyarakat NTB. Koleksi ini memberikan gambaran yang komprehensif tentang kehidupan masyarakat NTB dari masa ke masa.</places:description>
+        <places:province>Nusa Tenggara Barat</places:province>
+        <places:location>Jalan Panji Tilar Negara No. 6, Taman Sari, Kecamatan Ampenan, Kota Mataram</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>23 Januari 1982</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://awsimages.detik.net.id/community/media/visual/2022/12/05/museum-di-ntb-dan-ntt-1_169.png?w=1200</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Benteng_Lahayong">
+        <rdfs:name>Benteng Lahayong</rdfs:name>
+        <places:description>Benteng ini telah menyaksikan pergantian kekuasaan antara Portugis dan Belanda, serta berbagai peristiwa penting lainnya.Benteng ini dibangun pada abad ke-16 oleh bangsa Portugis dan memiliki peran strategis sebagai pusat perdagangan dan pertahanan.</places:description>
+        <places:province>Nusa Tenggara Timur</places:province>
+        <places:location>Lohayong II, Kec. Solor Tim., Kabupaten Flores Timur</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-16</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://cdns.klimg.com/mav-prod-resized/1200x630/bg/newsOg/2024/4/25/1714038333593-k1ajk.jpeg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Liang_Bua">
+        <rdfs:name>Liang Bua</rdfs:name>
+        <places:description>Liang Bua bukan hanya sekedar gua, tetapi juga merupakan situs arkeologi yang sangat penting. Di dalam gua, para arkeolog menemukan berbagai artefak seperti alat-alat batu, tulang hewan, dan sisa-sisa makanan yang memberikan petunjuk tentang kehidupan manusia purba yang pernah menghuni gua ini.</places:description>
+        <places:province>Nusa Tenggara Timur</places:province>
+        <places:location>Dusun Rampasasa, Desa Liang Bua, Kecamatan Ruteng, Kabupaten Manggarai</places:location>
+        <places:discovered>1965</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Gedung/Bangunan Bersejarah</places:category>
+        <places:thumbnail>https://cdn.rri.co.id/berita/Ende/o/1712192016423-liang-bua.jpg_2/8ijfo0eqfbjifti.jpeg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Gereja_Tua_Sikka">
+        <rdfs:name>Gereja Tua Sikka</rdfs:name>
+        <places:description>Dibangun pada tahun 1893 oleh Pastor JF Le Cocq Engbers d'armanddaville SJ, seorang misionaris dari Portugis, gereja ini merupakan hasil kolaborasi dengan Raja Don Alexu Ximenes da Silva dan masyarakat setempat. Arsiteknya sendiri adalah Pastor Antonius Dijkmans SJ, yang juga mendesain Gereja Katedral Jakarta.</places:description>
+        <places:province>Nusa Tenggara Timur</places:province>
+        <places:location>Desa Sikka, Kecamatan Lela, Kabupaten Sikka</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1893</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://assets.karyakarsa.com/image-626e0a15227a0.jpg@800w.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Keraton_Kadriah">
+        <rdfs:name>Keraton Kadriah</rdfs:name>
+        <places:description>Keraton Kadriah bukan hanya sekadar bangunan tua, tetapi juga menyimpan nilai historis yang tinggi. Di sini, kita dapat mempelajari sejarah Kesultanan Pontianak, interaksi dengan berbagai budaya, serta perkembangan Islam di Kalimantan Barat.</places:description>
+        <places:province>Kalimantan Barat</places:province>
+        <places:location>Jl. Tj. Raya 1, Dalam Bugis, Kec. Pontianak Tim., Kota Pontianak</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1771</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://backpackerjakarta.com/wp-content/uploads/2017/03/kraton-kadriah-3.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Tugu_Khatulistiwa">
+        <rdfs:name>Tugu Khatulistiwa</rdfs:name>
+        <places:description>Tugu Khatulistiwa merupakan ikon kebanggaan Kota Pontianak, Kalimantan Barat. Monumen bersejarah ini menjadi penanda titik nol derajat garis khatulistiwa yang melintasi Pulau Kalimantan. Letaknya yang unik menjadikan Tugu Khatulistiwa sebagai destinasi wisata yang menarik dan memiliki nilai historis yang tinggi.</places:description>
+        <places:province>Kalimantan Barat</places:province>
+        <places:location>Jl. Khatulistiwa No.Kel, Batu Layang, Kec. Pontianak Utara, Kota Pontianak</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1928</places:built>
+        <places:category>Landmark</places:category>
+        <places:thumbnail>https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/pontianak/tugu-khatulistiwa-profile1640518374.jpeg?x-image-process=image/resize,p_100,limit_1/imageslim</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Makam_Juang_Mandor">
+        <rdfs:name>Makam Juang Mandor</rdfs:name>
+        <places:description>Makam Juang Mandor adalah sebuah situs bersejarah yang menyimpan kisah kelam masa penjajahan Jepang di Kalimantan Barat. Terletak di Kecamatan Mandor, Kabupaten Landak, makam ini menjadi saksi bisu atas pembantaian massal yang dilakukan oleh tentara Jepang pada tahun 1943 hingga 1944.</places:description>
+        <places:province>Kalimantan Barat</places:province>
+        <places:location>Jl. Anjungan - Mandor, Mandor, Kec. Mandor, Kabupaten Landak</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>28 Juni 1944</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/landak/makam-juang-mandor-profile1640343568.png?x-image-process=image/resize,p_100,limit_1/imageslim</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Istana_Kuning">
+        <rdfs:name>Istana Kuning</rdfs:name>
+        <places:description>Istana Kuning merupakan salah satu peninggalan bersejarah yang sangat penting di Kalimantan Tengah, khususnya di Kotawaringin Barat. Bangunan megah ini menjadi saksi bisu kejayaan Kerajaan Kutaringin pada masanya.</places:description>
+        <places:province>Kalimantan Tengah</places:province>
+        <places:location>Raja, Kec. Arut Sel.Kabupaten Kotawaringin Barat</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1860</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://cdn.idntimes.com/content-images/community/2022/03/160848898-444215496857695-1698995905145816254-n-28598b7784be39d2a0e7a69c686d02c1-b858beff03a75ad4a21f170cf540978b_600x400.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Benteng_Tumbang_Anoi">
+        <rdfs:name>Benteng Tumbang Anoi</rdfs:name>
+        <places:description>Benteng ini memiliki peran penting dalam sejarah masyarakat Dayak, terutama sebagai lokasi pertemuan Damai Tumbang Anoi pada tahun 1894. Pertemuan ini diprakarsai oleh Damang Batu, seorang pemimpin Dayak, untuk menyatukan berbagai suku Dayak dan mengakhiri praktik head-hunting (perburuan kepala) yang menjadi konflik antar suku.</places:description>
+        <places:province>Kalimantan Tengah</places:province>
+        <places:location>Desa Tumbang Anoi, kecamatan Damang Batu, Kabupaten Gunung Mas</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1942</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://i0.wp.com/visit.kalteng.go.id/wp-content/uploads/Betang-T-Anoi.jpg?fit=460%2C266&ssl=1</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Balanga">
+        <rdfs:name>Museum Balanga</rdfs:name>
+        <places:description>museum ini menyimpan berbagai koleksi etnografi, seperti pakaian adat, alat musik, senjata tradisional, dan artefak suku Dayak. Museum Balanga juga menampilkan replika rumah Betang (rumah adat Dayak) dan informasi tentang kehidupan sehari-hari masyarakat Dayak, ritual adat, serta kerajinan tangan.</places:description>
+        <places:province>Kalimantan Tengah</places:province>
+        <places:location>Jl. Tjilik Riwut No.Km. 2.5, Palangka, Kec. Jekan Raya, Kota Palangka Raya</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1973</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/12/28/museum-balanga-658cda9ede948f43b63dfc23.jpg?t=o&v=780</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Wasaka">
+        <rdfs:name>Museum Wasaka</rdfs:name>
+        <places:description>Museum ini menampilkan berbagai koleksi benda-benda bersejarah, seperti senjata tradisional, pakaian pejuang, foto-foto perjuangan, dan dokumen penting yang berkaitan dengan perlawanan rakyat Kalimantan Selatan terhadap penjajahan Belanda.</places:description>
+        <places:province>Kalimantan Selatan</places:province>
+        <places:location>Jl. Kampung Kenanga, Sungai Jingah, Kec. Banjarmasin Utara, Kota Banjarmasin</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>10 November 1991</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXnPEA2Ua4lbkOl0eV_n-tt9iOgpNEu8VXUZvBJx0wde5K7CgypxX1BCvhjGamMPSmt9jzdEmanvR-UJVl85LS5xo1MWPcJK0s4o8WMMg3FrLfGJpTXG484J9-cc0-_fZOluUfemoYO4/s1600/nurimoto-1701-2-2.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Makam_Pangeran_Antasari">
+        <rdfs:name>Makam Pangeran Antasari</rdfs:name>
+        <places:description>Makam Pangeran Antasari berada di Kota Banjarmasin, Kalimantan Selatan, dan merupakan tempat peristirahatan terakhir Pahlawan Nasional Indonesia, Pangeran Antasari, yang memimpin perlawanan melawan kolonial Belanda pada abad ke-19. Kompleks makam ini terletak di kawasan pemakaman khusus yang dijaga dengan baik dan menjadi salah satu situs bersejarah yang dihormati di Kalimantan.</places:description>
+        <places:province>Kalimantan Selatan</places:province>
+        <places:location>Jl. Malkon Temon, Surgi Mufti, Kec. Banjarmasin Utara, Kota Banjarmasin</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>11 November 1958</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6b/Makam_Pahlawan_Nasional_Pangeran_Antasari.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Masjid_Sultan_Suriansyah">
+        <rdfs:name>Masjid Sultan Suriansyah</rdfs:name>
+        <places:description>Masjid Sultan Suriansyah, terletak di tepi Sungai Kuin di Banjarmasin, Kalimantan Selatan, adalah masjid tertua di provinsi ini, dibangun pada awal abad ke-16 oleh Sultan Suriansyah, raja pertama Kerajaan Banjar yang memeluk Islam.</places:description>
+        <places:province>Kalimantan Selatan</places:province>
+        <places:location>Jl. Kuin Utara, Kuin Utara, Kec. Banjarmasin Utara, Kota Banjarmasin</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-16</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://kalsel.jadesta.com/imgpost/115066.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Mulawarman">
+        <rdfs:name>Museum Mulawarman</rdfs:name>
+        <places:description>Museum Mulawarman di Tenggarong, Kalimantan Timur, merupakan museum bersejarah yang dulunya adalah Keraton Kesultanan Kutai Kartanegara. Didirikan pada tahun 1936, bangunan ini kini menampilkan koleksi yang berkaitan dengan sejarah dan kebudayaan Kerajaan Kutai, termasuk peninggalan kesultanan, benda-benda arkeologi, kerajinan tradisional Dayak, dan seni budaya Kalimantan.</places:description>
+        <places:province>Kalimantan Timur</places:province>
+        <places:location>Jl. Diponegoro No.26, Panji, Kec. Tenggarong, Kabupaten Kutai Kartanegara</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1936</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://indonesiakaya.com/wp-content/uploads/2020/10/museum_mulawarman_1200.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Masjid_Jami'_Hasanuddin">
+        <rdfs:name>Masjid Jami' Hasanuddin</rdfs:name>
+        <places:description>Masjid ini mampu menampung ribuan jamaah, sehingga menjadi pusat kegiatan ibadah dan keagamaan masyarakat sekitar, terutama saat bulan Ramadhan dan perayaan hari besar Islam. Letaknya yang strategis di pusat kota menjadikannya salah satu ikon penting kota Samarinda, sekaligus tempat wisata religi bagi para pengunjung yang ingin merasakan kentalnya nuansa Islam dan budaya Kalimantan.</places:description>
+        <places:province>Kalimantan Timur</places:province>
+        <places:location>Panji, Kec. Tenggarong, Kabupaten Kutai Kartanegara</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1940-an</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://asset-2.tstatic.net/kaltim/foto/bank/images/bersejarah-di-kalimantan-timur.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Makam_Raja_Kutai">
+        <rdfs:name>Makam Raja Kutai</rdfs:name>
+        <places:description>Salah satu makam penting di kompleks ini adalah makam Sultan Aji Muhammad Muslihuddin dan Sultan Aji Muhammad Sulaiman, tokoh besar dalam sejarah Kutai. Makam ini didesain dengan gaya arsitektur khas Islam dan lokal, dengan ornamen-ornamen tradisional yang menunjukkan kekayaan budaya Kutai.</places:description>
+        <places:province>Kalimantan Timur</places:province>
+        <places:location>Kutai Lama, Kec. Anggana, Kabupaten Kutai Kartanegara</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-13</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://indonesiakaya.com/wp-content/uploads/2020/10/makam_kesultanan_kutai_1200.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Keraton_Sambaliung">
+        <rdfs:name>Keraton Sambaliung</rdfs:name>
+        <places:description>Keraton Sambaliung menyimpan banyak artefak dan benda-benda bersejarah yang mencerminkan kebudayaan dan peradaban Kesultanan Sambaliung.Keraton ini pernah menjadi pusat pemerintahan Kesultanan Sambaliung, sebuah kerajaan Islam yang berpengaruh di wilayah Kalimantan Timur.</places:description>
+        <places:province>Kalimantan Utara</places:province>
+        <places:location>Jl. ST Aminuddin, Sambaliung, Kec. Sambaliung, Kabupaten Berau</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1881</places:built>
+        <places:category>Istana/Keraton</places:category>
+        <places:thumbnail>https://sultansinindonesieblog.wordpress.com/wp-content/uploads/2020/05/1sa-keraton-kerajaan-sambaliung...jpg?w=470&h=293</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Masjid_kassimuddin">
+        <rdfs:name>Masjid kassimuddin</rdfs:name>
+        <places:description>Masjid Kasimuddin adalah sebuah masjid bersejarah yang terletak di Kabupaten Bulungan, Kalimantan Utara. Dibangun pada masa pemerintahan Sultan Maulana Muhammad Kasimuddin, masjid ini menjadi saksi bisu sejarah Kesultanan Bulungan.</places:description>
+        <places:province>Kalimantan Utara</places:province>
+        <places:location>Jalan Kasimuddin, Kelurahan Tanjung Palas Tengah, Kecamatan Tanjung Palas, Kabupaten Bulungan</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1897</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://img.antaranews.com/cache/800x533/2021/07/20/20210720_082348_copy_1280x810.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Bukit_Damai">
+        <rdfs:name>Bukit Damai</rdfs:name>
+        <places:description>Bukit Damai di Kalimantan Utara menyimpan kisah sejarah yang mendalam, terutama terkait dengan peristiwa Perang Dunia II. Bukit ini menjadi saksi bisu dari pertempuran sengit antara pasukan Jepang dan Australia di Tarakan pada tahun 1942 dan 1945.</places:description>
+        <places:province>Kalimantan Utara</places:province>
+        <places:location>l. Pongtiku, Nunukan Tengah, Kec. Nunukan, Kabupaten Nunukan</places:location>
+        <places:discovered>1942</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://assets.pikiran-rakyat.com/crop/0x0:0x0/220x140/photo/2023/09/12/301016119.png</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Waruga_Sawangan">
+        <rdfs:name>Waruga Sawangan</rdfs:name>
+        <places:description>Waruga Sawangan adalah sebuah situs purbakala yang terletak di Desa Sawangan, Minahasa, Sulawesi Utara. Situs ini merupakan kumpulan kubur batu kuno yang unik, peninggalan zaman Megalitikum. Waruga sendiri berasal dari kata "waru" yang berarti "rumah" dan "ruga" yang berarti "badan", sehingga secara harfiah berarti "rumah tempat badan yang akan kembali ke surga".</places:description>
+        <places:province>Sulawesi Utara</places:province>
+        <places:location>Sawangan, Kec. Airmadidi, Kabupaten Minahasa Utara</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1500 SM</places:built>
+        <places:category>Makam/Situs Pemakaman</places:category>
+        <places:thumbnail>https://www.cakraloka.com/wp-content/uploads/2024/03/Menelusuri-Misteri-Kuburan-Waruga-Sawangan-Di-Minahasa.webp</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Benteng_Moraya">
+        <rdfs:name>Benteng Moraya</rdfs:name>
+        <places:description>Benteng Moraya adalah sebuah bangunan bersejarah yang terletak di Tondano, Minahasa, Sulawesi Utara. Benteng ini bukan hanya sekadar bangunan tua, melainkan menyimpan cerita panjang tentang perjuangan rakyat Minahasa melawan penjajah Belanda.</places:description>
+        <places:province>Sulawesi Utara</places:province>
+        <places:location>Tuutu, Kec. Tondano Bar., Kabupaten Minahasa</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-16</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://www.indobrita.co/wp-content/uploads/2023/04/Benteng-Moraya-Minahasa.webp</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Gereja_Masehi_Injili">
+        <rdfs:name>Gereja Masehi Injili</rdfs:name>
+        <places:description>Gereja Masehi Injili di Minahasa (GMIM) adalah salah satu denominasi Kristen Protestan terbesar di Indonesia yang berpusat di Sulawesi Utara. Gereja ini berakar dari misi Nederlandsch Zendeling Genootschap (NZG) dan memiliki pengaruh yang sangat besar dalam kehidupan masyarakat Minahasa.</places:description>
+        <places:province>Sulawesi Utara</places:province>
+        <places:location>Jalan Raya Tomohon – Manado, Kelurahan Talete II Tomohon</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>-</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://asset-2.tstatic.net/manado/foto/bank/images/kantor-sinode-gmim-di-tomohon-555.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Benteng_Otanaha">
+        <rdfs:name>Benteng Otanaha</rdfs:name>
+        <places:description>Nama "Otanaha" diambil dari kisah seorang pangeran bernama Naha yang menjadikannya tempat persembunyian. Benteng ini terkenal dengan konstruksinya yang unik, menggunakan campuran batu kapur, pasir, dan putih telur sebagai perekat. Dari puncak benteng, pengunjung dapat menikmati pemandangan indah Danau Limboto serta lanskap sekitar. Untuk mencapainya, diperlukan pendakian melalui ratusan anak tangga, yang menjadi daya tarik tersendiri bagi wisatawan.</places:description>
+        <places:province>Gorontalo</places:province>
+        <places:location>Dembe I, Kec. Kota Bar., Kota Gorontalo</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>abad ke-15</places:built>
+        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:thumbnail>https://traverse.id/wp-content/uploads/2019/08/Benteng-Otanaha-Saksi-Bisu-Kejayaan-Gorontalo--e1567059623302-696x466.jpeg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Museum_Pendaratan_Pesawat_Amphibi_Bung_Karno">
+        <rdfs:name>Museum Pendaratan Pesawat Amphibi Bung Karno</rdfs:name>
+        <places:description>Museum ini merupakan saksi bisu atas kunjungan bersejarah Presiden pertama Republik Indonesia, Ir. Soekarno, ke Gorontalo. Bangunan yang awalnya berfungsi sebagai rumah peninggalan Belanda ini kemudian diubah menjadi sebuah museum untuk mengenang peristiwa penting tersebut.</places:description>
+        <places:province>Gorontalo</places:province>
+        <places:location>Desa Iluta, Kecamatan Batudaa, Kabupaten Gorontalo</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1936</places:built>
+        <places:category>Museum Bersejarah</places:category>
+        <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/sWKm_sbBpA2E_MIWHIynotzD3Sk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/894613/original/067339500_1433591715-museum_pendaratan_pesawat_sukarno.jpg</places:thumbnail>
+    </places:tour>
+
+    <places:tour rdf:about="https://example.org/page/Masjid_Hunto_Sulta_Amai">
+        <rdfs:name>Masjid Hunto Sultan Amai</rdfs:name>
+        <places:description>ibangun pada tahun 1495 oleh Sultan Amai, pemimpin Kerajaan Gorontalo pertama yang memeluk Islam, masjid ini menjadi saksi bisu sejarah penyebaran Islam di wilayah tersebut. Nama "Hunto" sendiri merupakan singkatan dari Ilohuntungo yang berarti basis atau pusat perkumpulan agama Islam pada masa itu.</places:description>
+        <places:province>Gorontalo</places:province>
+        <places:location>Kelurahan, Biawu, Kota Sel., Kota Gorontalo</places:location>
+        <places:discovered>-</places:discovered>
+        <places:built>1495</places:built>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://dulohupa.id/wp-content/uploads/2023/04/Masjid-Hunto-Gorontalo.jpeg</places:thumbnail>
+    </places:tour>
+
     <!-- Jembatan Lobu -->
     <places:tour rdf:about="https://example.org/page/places/Jembatan_Lobu">
         <rdfs:name>Jembatan Lobu</rdfs:name>
@@ -521,10 +949,6 @@
         <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/qd7JEL9c0AbeAfX3Dak_Ffy0rgA=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3607797/original/092318100_1634711432-WhatsApp_Image_2021-10-06_at_20.59.24.jpeg</places:thumbnail>
     </places:tour>
 
-</rdf:RDF>  
-=======
-    
-
         //PROVISI ACEH//
         <places:tour rdf:about="https://example.org/page/Masjid_Raya_Baiturrahman">
             <rdfs:name>Masjid Raya Baiturrahman</rdfs:name>
@@ -980,4 +1404,4 @@
             <places:thumbnail>https://www.google.com/search?q=kota+tua+jakarta&sca_esv=dfbe50af9478875c&udm=2&biw=1536&bih=730&sxsrf=ADLYWILRxbUAsXAsTDwv-3s47VHc-RW_XQ%3A1731639703836&ei=l7k2Z_DiMvqRseMP5KmW8Qs&oq=kota+tua+ja&gs_lp=EgNpbWciC2tvdGEgdHVhIGphKgIIADIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImhdQAFirD3AAeACQAQCYAV2gAbUFqgECMTG4AQPIAQD4AQGYAgugAtsFwgIEECMYJ8ICDhAAGIAEGLEDGIMBGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBZgDAJIHAjExoAfmPA&sclient=img</places:thumbnail>
         </places:tour>
 </rdf:RDF>
->>>>>>> Stashed changes
+
