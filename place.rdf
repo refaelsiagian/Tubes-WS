@@ -37,7 +37,7 @@
         <places:discovered></places:discovered>
         <places:built>abad ke-9</places:built>
         <places:category>Tempat Ibadah</places:category>
-        <places:thumbnail>https://i0.wp.com/fahum.umsu.ac.id/wp-content/uploads/2024/02/Sejarah-Candi-Prambanan-serta-Fungsinya.jpg?fit=1366%2C768&ssl=1</places:thumbnail>
+        <places:thumbnail>https://i0.wp.com/fahum.umsu.ac.id/wp-content/uploads/2024/02/Sejarah-Candi-Prambanan-serta-Fungsinya.jpg?fit=1366%2C768&amp;ssl=1</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Museum_TNI_AD">
@@ -135,8 +135,8 @@
         <places:location>Jl. Ayodya No.10, Mengwi, Kec. Mengwi, Kabupaten Badung</places:location>
         <places:discovered>abad ke-17</places:discovered>
         <places:built>-</places:built>
-        <places:category>Desa/Wilayah Bersejarah</places:category>
-        <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxAXBdvH7GsFeg9Cn6otCQZqPJXA91V3OUA&s</places:thumbnail>
+        <places:category>Tempat Ibadah</places:category>
+        <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxAXBdvH7GsFeg9Cn6otCQZqPJXA91V3OUA&amp;s</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Masjid_Kuno_Bayan_Beleq">
@@ -147,7 +147,7 @@
         <places:discovered>-</places:discovered>
         <places:built>abad ke-16</places:built>
         <places:category>Tempat Ibadah</places:category>
-        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/04/08/masjid-bayan-beleq-metamorfosa-co-64316d784addee76ff2d4b32.jpg?t=o&v=800</places:thumbnail>
+        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/04/08/masjid-bayan-beleq-metamorfosa-co-64316d784addee76ff2d4b32.jpg?t=o&amp;v=800</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Istana_Dalam_Loka">
@@ -257,7 +257,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1942</places:built>
         <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
-        <places:thumbnail>https://i0.wp.com/visit.kalteng.go.id/wp-content/uploads/Betang-T-Anoi.jpg?fit=460%2C266&ssl=1</places:thumbnail>
+        <places:thumbnail>https://i0.wp.com/visit.kalteng.go.id/wp-content/uploads/Betang-T-Anoi.jpg?fit=460%2C266&amp;ssl=1</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Museum_Balanga">
@@ -268,7 +268,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1973</places:built>
         <places:category>Museum Bersejarah</places:category>
-        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/12/28/museum-balanga-658cda9ede948f43b63dfc23.jpg?t=o&v=780</places:thumbnail>
+        <places:thumbnail>https://assets-a1.kompasiana.com/items/album/2023/12/28/museum-balanga-658cda9ede948f43b63dfc23.jpg?t=o&amp;v=780</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Museum_Wasaka">
@@ -345,7 +345,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1881</places:built>
         <places:category>Istana/Keraton</places:category>
-        <places:thumbnail>https://sultansinindonesieblog.wordpress.com/wp-content/uploads/2020/05/1sa-keraton-kerajaan-sambaliung...jpg?w=470&h=293</places:thumbnail>
+        <places:thumbnail>https://sultansinindonesieblog.wordpress.com/wp-content/uploads/2020/05/1sa-keraton-kerajaan-sambaliung...jpg?w=470&amp;h=293</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Masjid_kassimuddin">
@@ -492,7 +492,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1835</places:built>
         <places:category>Tempat Ibadah</places:category>
-        <places:thumbnail>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619433547/lnotd1skjclhmtlhpvrc.jpg/places:thumbnail>
+        <places:thumbnail>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619433547/lnotd1skjclhmtlhpvrc.jpg/places:thumbnail</places:thumbnail>
     </places:tour>
 
     <!-- Gereja Tua Simpangan -->
@@ -949,7 +949,7 @@
         <places:thumbnail>https://cdn1-production-images-kly.akamaized.net/qd7JEL9c0AbeAfX3Dak_Ffy0rgA=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3607797/original/092318100_1634711432-WhatsApp_Image_2021-10-06_at_20.59.24.jpeg</places:thumbnail>
     </places:tour>
 
-        //PROVISI ACEH//
+        <!-- //PROVISI ACEH// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Raya_Baiturrahman">
             <rdfs:name>Masjid Raya Baiturrahman</rdfs:name>
             <places:description>Masjid Raya Baiturrahman adalah masjid ikonik di Banda Aceh yang dibangun pada masa Sultan Iskandar Muda, Sultan Aceh ke-9, pada tahun 1612. Masjid ini memiliki arsitektur yang megah dan menjadi simbol ketahanan dan kebanggaan masyarakat Aceh, terutama pasca-tsunami 2004. Keindahan dan kemegahan masjid ini menjadikannya tempat yang penting dalam sejarah Islam di Aceh.</places:description>
@@ -984,7 +984,7 @@
         </places:tour>
 
 
-        //PROVISI SUMATERA UTARA//
+        <!-- //PROVISI SUMATERA UTARA// -->
         <places:tour rdf:about="https://example.org/page/Museum_Simalungun">
             <rdfs:name>Museum Simalungun</rdfs:name>
             <places:description>en bagi menyimpan nilai sejarah yang penting.</places:description>
@@ -993,7 +993,7 @@
             <places:discovered>-</places:discovered>
             <places:built>10 April 1939</places:built>
             <places:category>Museum Bersejarah</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27NaVGzVjrengoSY9KWSAPUKQwPOH2iG4Ig&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27NaVGzVjrengoSY9KWSAPUKQwPOH2iG4Ig&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Istana_Maimun">
@@ -1017,11 +1017,11 @@
             <places:discovered>-</places:discovered>
             <places:built>Abad ke-7 Masehi</places:built>
             <places:category>Bangunan Bersejarah</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNbwrsD5LzDumRIeePJtg8lae07MCjib7Jw&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNbwrsD5LzDumRIeePJtg8lae07MCjib7Jw&amp;s</places:thumbnail>
         </places:tour>
 
 
-        //PROVISI SUMATERA BARAT//
+        <!-- //PROVISI SUMATERA BARAT// -->
         <places:tour rdf:about="https://example.org/page/Jam_Gadang">
             <rdfs:name>Jam Gadang</rdfs:name>
             <places:description>Jam Gadang adalah sebuah menara jam besar yang terletak di pusat Kota Bukittinggi. Dibangun pada tahun 1926 sebagai hadiah dari pemerintah kolonial Belanda kepada Ratu Juliana dari Belanda, Jam Gadang menjadi simbol Kota Bukittinggi dan salah satu landmark paling terkenal di Sumatera Barat. Menara ini memiliki arsitektur khas yang dipengaruhi oleh gaya arsitektur Eropa dengan sentuhan tradisional Minangkabau. Pada bagian puncak menara terdapat jam besar yang menjadi daya tarik utama. Jam Gadang kini menjadi ikon budaya dan tempat berkumpul yang sering digunakan untuk berbagai acara dan festival di Kota Bukittinggi.</places:description>
@@ -1055,7 +1055,7 @@
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/18/Istano_Rajo_Basa_Pagaruyung.jpg</places:thumbnail>
         </places:tour>
 
-        //PROVINSI RIAU//
+        <!-- //PROVINSI RIAU// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Raya_Pekanbaru">
             <rdfs:name>Masjid Raya Pekanbaru</rdfs:name>
             <places:description>Masjid Raya Pekanbaru adalah salah satu masjid terbesar dan paling terkenal di Kota Pekanbaru. Masjid ini memiliki arsitektur yang megah dengan perpaduan desain tradisional Melayu dan modern. Masjid Raya Pekanbaru tidak hanya berfungsi sebagai tempat ibadah bagi umat Muslim, tetapi juga sebagai pusat kegiatan sosial dan keagamaan di kota ini. Masjid ini dapat menampung ribuan jamaah dan sering digunakan untuk berbagai acara keagamaan, termasuk salat berjamaah, pengajian, dan perayaan hari besar Islam. Keindahan arsitekturnya dan suasana yang khusyuk menjadikan Masjid Raya Pekanbaru sebagai salah satu tujuan wisata religi di Pekanbaru.</places:description>
@@ -1079,7 +1079,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1723</places:built>
             <places:category> Istana/Keraton</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFshq_RRwMAG5bPsv2BTDoaLBuvtpnfgJJA&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFshq_RRwMAG5bPsv2BTDoaLBuvtpnfgJJA&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Rumah_Kelahiran_Bung_Hatta">
@@ -1094,7 +1094,7 @@
         </places:tour>
 
 
-        //PROVINSI KEPULAUAN RIAU//
+        <!-- //PROVINSI KEPULAUAN RIAU// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Raya_Sultan_Riau">
             <rdfs:name>Masjid Raya Sultan Riau </rdfs:name>
             <places:description>Masjid Raya Sultan Riau, yang terletak di Pulau Penyengat, dibangun pada tahun 1803. Masjid ini memiliki nilai sejarah yang sangat tinggi, karena merupakan tempat ibadah yang penting bagi kerajaan Kesultanan Riau-Lingga. Masjid ini dibangun menggunakan bahan-bahan lokal seperti batu bata dan kayu, serta dihiasi dengan ornamen-ornamen khas Melayu. Selain digunakan untuk ibadah, masjid ini juga menjadi pusat kegiatan sosial dan budaya bagi masyarakat di sekitar pulau. Sebagai salah satu situs sejarah, masjid ini menarik perhatian wisatawan yang ingin mempelajari lebih lanjut tentang sejarah dan kebudayaan Islam di kawasan Riau.</places:description>
@@ -1103,7 +1103,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1803</places:built>
             <places:category> Tempat Ibadah</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaSUCJKslWQ4vZD2TobYxYi2T4ZEaZgYS9Q&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaSUCJKslWQ4vZD2TobYxYi2T4ZEaZgYS9Q&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Kelenteng_Sun_Te_Kong">
@@ -1114,7 +1114,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1811</places:built>
             <places:category>Tempat Ibadah</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEQspB4PstFR_ZOzjALFofarn80sHmidoxQ&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEQspB4PstFR_ZOzjALFofarn80sHmidoxQ&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Benteng_Bukit_Kursi">
@@ -1125,11 +1125,11 @@
             <places:discovered></places:discovered>
             <places:built>Abad ke-18</places:built>
             <places:category>Benteng</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-e7AbzOGe_51d3RAw_Shi6-XCylzX1KXJFA&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-e7AbzOGe_51d3RAw_Shi6-XCylzX1KXJFA&amp;s</places:thumbnail>
         </places:tour>
 
 
-        //PROVINSI JAMBI//
+        <!-- //PROVINSI JAMBI// -->
         <places:tour rdf:about="https://example.org/page/Makam_Taman_Rajo-Rajo">
             <rdfs:name>Makam Taman Rajo-Rajo</rdfs:name>
             <places:description>Taman Rajo-Rajo terletak di Kelurahan Kampung Baru, Kecamatan Legok, Kota Jambi. Taman Rajo-Rajo merupakan tempat pemakaman SultanMahmud Mahidin dan istrinya R. Isah. Sultan Mahmud yang memerintah Kesultanan Jambi sekitar tahun 1821-1826. Nisan makam-makam terbuat dari kayu sungkai, bebentuk gada dan diukir pada permukaannya. Komplek makam dikelilingi pagar berupa dinding bata berukuran besar (seperti bata candi) dan saat ini hanya tersisa sebagian.</places:description>
@@ -1138,7 +1138,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1800-an</places:built>
             <places:category>Makam</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBN4OWWsjbpsxKwWHi1fyP5Fv2VXnooykYQ&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBN4OWWsjbpsxKwWHi1fyP5Fv2VXnooykYQ&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Candi_Muaro_Jambi">
@@ -1163,7 +1163,7 @@
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Front_gate_of_Fort_Marlborough%2C_Bengkulu_2015-04-19_02.jpg/413px-Front_gate_of_Fort_Marlborough%2C_Bengkulu_2015-04-19_02.jpg</places:thumbnail>
         </places:tour>
     
-        //PROVINSI Sumatera Selatan//
+        <!-- //PROVINSI Sumatera Selatan// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Agung_Palembang">
             <rdfs:name>Masjid Agung Palembang</rdfs:name>
             <places:description>Masjid tertua di Palembang, dengan arsitektur khas perpaduan Melayu dan Tiongkok</places:description>
@@ -1198,13 +1198,13 @@
         </places:tour>
 
 
-        //PROVINSI Bangka Belitung//
+        <!-- //PROVINSI Bangka Belitung// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Jami’_Bangka">
             <rdfs:name>Masjid Jami’ Bangka</rdfs:name>
             <places:description>Salah satu masjid tertua di Pulau Bangka, dibangun dengan gaya arsitektur tradisional</places:description>
             <places:province>Bangka Belitung</places:province>
             <places:location>Jl. Abdullah Addari No.94, Masjid Jamik	Kec. Rangkui, Kota Pangkal Pinang, Kepulauan Bangka Belitung</places:location>
-            <places:discovered-1883</places:discovered>
+            <places:discovered>1883</places:discovered>
             <places:built>1883</places:built>
             <places:category>Tempat Ibadah</places:category>
             <places:thumbnail>https://www.kontraktorkubahmasjid.com/wp-content/uploads/2017/12/masjid-muntok.png</places:thumbnail>
@@ -1232,7 +1232,7 @@
             <places:thumbnail>https://www.djkn.kemenkeu.go.id/files/images/2017/07/Museum_Timah.jpg</places:thumbnail>
         </places:tour>
 
-        //PROVINSI Bengkulu//
+        <!-- //PROVINSI Bengkulu// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Jamik_Bengkulu">
             <rdfs:name>Masjid Jamik Bengkulu</rdfs:name>
             <places:description>Masjid ini dirancang oleh Soekarno saat pengasingannya di Bengkulu</places:description>
@@ -1266,7 +1266,7 @@
             <places:thumbnail>https://awsimages.detik.net.id/community/media/visual/2024/05/06/museum-bengkulu_169.jpeg?w=1200</places:thumbnail>
         </places:tour>
 
-         //PROVINSI Lampung//
+         <!-- //PROVINSI Lampung// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Al-Anwar_Tulang_Bawang">
             <rdfs:name>Masjid Al-Anwar Tulang Bawang</rdfs:name>
             <places:description>Masjid yang memiliki nilai sejarah bagi masyarakat Tulang Bawang.</places:description>
@@ -1301,7 +1301,7 @@
         </places:tour>
 
 
-        //PROVINSI Jawa Barat//
+        <!-- //PROVINSI Jawa Barat// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Agung_Demak">
             <rdfs:name>Masjid Agung Demak</rdfs:name>
             <places:description>Salah satu masjid tertua di Indonesia, peninggalan Kesultanan Demak.</places:description>
@@ -1335,7 +1335,7 @@
             <places:thumbnail>https://museum.co.id/wp-content/uploads/2020/09/Museum-Sri-Baduga-1.jpg</places:thumbnail>
         </places:tour>
 
-        //PROVINSI Banten//
+        <!-- //PROVINSI Banten// -->
         <places:tour rdf:about="https://example.org/page/Masjid_Agung_Banten">
             <rdfs:name>Masjid Agung Banten</rdfs:name>
             <places:description>Masjid tua dengan menara khas yang masih digunakan sebagai tempat ibadah.</places:description>
@@ -1370,7 +1370,7 @@
         </places:tour>
 
 
-        //PROVINSI DKI Jakarta//
+        <!-- //PROVINSI DKI Jakarta// -->
         <places:tour rdf:about="https://example.org/page/Monumen_Nasional_(Monas)">
             <rdfs:name>Monumen Nasional (Monas)</rdfs:name>
             <places:description>Monumen Nasional (Monas) adalah ikon Jakarta yang melambangkan perjuangan rakyat Indonesia untuk meraih kemerdekaan. Tinggi monumen ini mencapai 132 meter dan dilengkapi museum di bagian bawahnya.</places:description>
@@ -1379,7 +1379,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1961</places:built>
             <places:category>Landmark</places:category>
-            <places:thumbnail>https://www.google.com/search?sca_esv=dfbe50af9478875c&sxsrf=ADLYWIJTGwyV1Axi_NcJ2FbdVHUGDIcZ6g:1731639642214&q=monas&udm=2&fbs=AEQNm0DRkam6RZP7GtztEOLmt4oJ8Clo4GiuZfu1v-ShpjWeHJx3g_9TgwV1SRaOPx9HL-nRv0CDzo6aKZc4312-ne0dLdN25o9KlRKeWDSNwJ8L22GaZDR4k73q1umvoTrkNs-f5NM_Y6lelKXnPglqZdpzruyQAd1FEpPfGrWRxAH4fN9eklarNC855Om4c-VjzPkuiuiEPVZ0gsOzcQFiW5jl9ml3Bw&sa=X&ved=2ahUKEwih_4KurN2JAxX9S2wGHcG2H3gQtKgLegQIDxAB&biw=1536&bih=730&dpr=1.25</places:thumbnail>
+            <places:thumbnail>https://www.google.com/search?sca_esv=dfbe50af9478875c&amp;sxsrf=ADLYWIJTGwyV1Axi_NcJ2FbdVHUGDIcZ6g:1731639642214&amp;q=monas&amp;udm=2&amp;fbs=AEQNm0DRkam6RZP7GtztEOLmt4oJ8Clo4GiuZfu1v-ShpjWeHJx3g_9TgwV1SRaOPx9HL-nRv0CDzo6aKZc4312-ne0dLdN25o9KlRKeWDSNwJ8L22GaZDR4k73q1umvoTrkNs-f5NM_Y6lelKXnPglqZdpzruyQAd1FEpPfGrWRxAH4fN9eklarNC855Om4c-VjzPkuiuiEPVZ0gsOzcQFiW5jl9ml3Bw&amp;sa=X&amp;ved=2ahUKEwih_4KurN2JAxX9S2wGHcG2H3gQtKgLegQIDxAB&amp;biw=1536&amp;bih=730&amp;dpr=1.25</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Museum_Bahari">
@@ -1390,7 +1390,7 @@
             <places:discovered>1621</places:discovered>
             <places:built>1621</places:built>
             <places:category>Museum Bersejarah</places:category>
-            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfn0gexZzpHktbXpTPdDkdlIEEJMhmjueAw&s</places:thumbnail>
+            <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfn0gexZzpHktbXpTPdDkdlIEEJMhmjueAw&amp;s</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Museum_Banten_Lama">
@@ -1401,7 +1401,7 @@
             <places:discovered>-</places:discovered>
             <places:built>Abad 17-18</places:built>
             <places:category>Gedung/Bangunan Bersejarah</places:category>
-            <places:thumbnail>https://www.google.com/search?q=kota+tua+jakarta&sca_esv=dfbe50af9478875c&udm=2&biw=1536&bih=730&sxsrf=ADLYWILRxbUAsXAsTDwv-3s47VHc-RW_XQ%3A1731639703836&ei=l7k2Z_DiMvqRseMP5KmW8Qs&oq=kota+tua+ja&gs_lp=EgNpbWciC2tvdGEgdHVhIGphKgIIADIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImhdQAFirD3AAeACQAQCYAV2gAbUFqgECMTG4AQPIAQD4AQGYAgugAtsFwgIEECMYJ8ICDhAAGIAEGLEDGIMBGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBZgDAJIHAjExoAfmPA&sclient=img</places:thumbnail>
+            <places:thumbnail>https://www.google.com/search?q=kota+tua+jakarta&amp;sca_esv=dfbe50af9478875c&amp;udm=2&amp;biw=1536&amp;bih=730&amp;sxsrf=ADLYWILRxbUAsXAsTDwv-3s47VHc-RW_XQ%3A1731639703836&amp;ei=l7k2Z_DiMvqRseMP5KmW8Qs&amp;oq=kota+tua+ja&amp;gs_lp=EgNpbWciC2tvdGEgdHVhIGphKgIIADIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImhdQAFirD3AAeACQAQCYAV2gAbUFqgECMTG4AQPIAQD4AQGYAgugAtsFwgIEECMYJ8ICDhAAGIAEGLEDGIMBGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBZgDAJIHAjExoAfmPA&amp;sclient=img</places:thumbnail>
         </places:tour>
 </rdf:RDF>
 
