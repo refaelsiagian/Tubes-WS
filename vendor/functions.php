@@ -10,4 +10,13 @@ require 'vendor/autoload.php';
 
 $sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/places/sparql');
 
+
+function limitWords($text, $maxWords) {
+    $words = explode(' ', $text);
+    if (count($words) > $maxWords) {
+        return implode(' ', array_slice($words, 0, $maxWords)) . '...';
+    }
+    return $text; // Jika kurang dari 15 kata, kembalikan teks asli
+}
+
 ?>

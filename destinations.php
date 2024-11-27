@@ -1,21 +1,43 @@
 <?php
     include 'vendor/functions.php';
 
+    $filter = '';
+    $title = 'DESTINATIONS';
+
+    if (isset($_GET['province'])) {
+        $filter = 'FILTER(?province = "' . urldecode($_GET['province']) . '")';
+        $title = $_GET['province'];
+    } elseif (isset($_GET['category'])) {
+        $filter = 'FILTER(?category = "' . $_GET['category'] . '")';
+        $title = $_GET['category'];
+    } elseif (isset($_GET['keyword'])) {
+        $keyword = urldecode($_GET['keyword']);
+        $filter = '
+            FILTER (
+                CONTAINS(LCASE(?name), LCASE("' . $keyword . '")) ||
+                CONTAINS(LCASE(?province), LCASE("' . $keyword . '")) ||
+                CONTAINS(LCASE(?location), LCASE("' . $keyword . '"))
+            )
+        ';
+        $title = "Search: " . $_GET['keyword'];
+    }
+
     $query = '
         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
         PREFIX places: <https://example.org/schema/places>
 
-        SELECT ?name ?province ?description ?thumbnail ?category
+        SELECT ?name ?province ?description ?thumbnail ?category ?location
         WHERE {
             ?subject rdfs:name ?name.
             ?subject places:province ?province.
             ?subject places:description ?description.
             ?subject places:thumbnail ?thumbnail.
             ?subject places:category ?category.
+            ?subject places:location ?location.
+            ' . $filter . '
         }
     ';
 
-    $title = 'DESTINATIONS';
     include 'include/header.php'; 
 ?>
 
