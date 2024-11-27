@@ -91,7 +91,7 @@
         <places:location>Jl. Untung Suropati No.II, Pelem II, Pelem, Kec. Ngawi, Kabupaten Ngawi</places:location>
         <places:discovered>-</places:discovered>
         <places:built>1845</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/17/Benteng-van-den-bosch-tampak-atas-2.jpg</places:thumbnail>
     </places:tour>
 
@@ -131,7 +131,7 @@
     <places:tour rdf:about="https://example.org/page/Taman_Ayun">
         <rdfs:name>Taman Ayun</rdfs:name>
         <places:description>Pura Taman Ayun dibangun pada abad ke-17 oleh Raja Mengwi I Gusti Agung Putu. Awalnya, pura ini berfungsi sebagai tempat pemujaan leluhur raja-raja Mengwi. Seiring berjalannya waktu, Pura Taman Ayun menjadi pusat keagamaan dan kebudayaan masyarakat sekitar.</places:description>
-        <places:province></places:province>
+        <places:province>Bali</places:province>
         <places:location>Jl. Ayodya No.10, Mengwi, Kec. Mengwi, Kabupaten Badung</places:location>
         <places:discovered>abad ke-17</places:discovered>
         <places:built>-</places:built>
@@ -179,7 +179,7 @@
         <places:location>Lohayong II, Kec. Solor Tim., Kabupaten Flores Timur</places:location>
         <places:discovered>-</places:discovered>
         <places:built>abad ke-16</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://cdns.klimg.com/mav-prod-resized/1200x630/bg/newsOg/2024/4/25/1714038333593-k1ajk.jpeg</places:thumbnail>
     </places:tour>
 
@@ -256,7 +256,7 @@
         <places:location>Desa Tumbang Anoi, kecamatan Damang Batu, Kabupaten Gunung Mas</places:location>
         <places:discovered>-</places:discovered>
         <places:built>1942</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://i0.wp.com/visit.kalteng.go.id/wp-content/uploads/Betang-T-Anoi.jpg?fit=460%2C266&amp;ssl=1</places:thumbnail>
     </places:tour>
 
@@ -388,7 +388,7 @@
         <places:location>Tuutu, Kec. Tondano Bar., Kabupaten Minahasa</places:location>
         <places:discovered>-</places:discovered>
         <places:built>abad ke-16</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://www.indobrita.co/wp-content/uploads/2023/04/Benteng-Moraya-Minahasa.webp</places:thumbnail>
     </places:tour>
 
@@ -410,7 +410,7 @@
         <places:location>Dembe I, Kec. Kota Bar., Kota Gorontalo</places:location>
         <places:discovered>-</places:discovered>
         <places:built>abad ke-15</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://traverse.id/wp-content/uploads/2019/08/Benteng-Otanaha-Saksi-Bisu-Kejayaan-Gorontalo--e1567059623302-696x466.jpeg</places:thumbnail>
     </places:tour>
 
@@ -548,7 +548,7 @@
         <places:location>Kecamatan Bantaeng, Kabupaten Bantaeng</places:location>
         <places:discovered>-</places:discovered>
         <places:built>awal 1940-an</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://budaya-data.kemdikbud.go.id/foto/KB/KB00/KB000747-1.jpg</places:thumbnail>
     </places:tour>
 
@@ -643,7 +643,7 @@
         <places:location>Kecamatan Baubau, Kota Baubau</places:location>
         <places:discovered>-</places:discovered> 
         <places:built>Abad ke-16</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201602011942755_b.jpg</places:thumbnail>
     </places:tour>
 
@@ -669,7 +669,7 @@
         <places:location>Kecamatan Baubau, Kota Baubau</places:location>
         <places:discovered>-</places:discovered> 
         <places:built>Abad ke-16</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://img.antaranews.com/cache/1200x800/2021/04/03/Benteng-Keraton-Kendari-030421-Jjn-3.jpg</places:thumbnail>
     </places:tour>
 
@@ -717,7 +717,7 @@
         <places:location>Kecamatan Nusaniwe, Kota Ambon</places:location>
         <places:discovered>-</places:discovered> 
         <places:built>Diperkirakan pada tahun 1942-1945</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://budaya-data.kemdikbud.go.id/foto/KB/KB00/KB000518-4.jpg</places:thumbnail>
     </places:tour>
 
@@ -729,7 +729,7 @@
         <places:location>Kecamatan Maluku Tengah, Kabupaten Maluku Tengah</places:location>
         <places:discovered>-</places:discovered>
         <places:built>1676</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://asset-2.tstatic.net/ambon/foto/bank/images/benteng-duurstede11.jpg</places:thumbnail>
     </places:tour>
 
@@ -753,7 +753,7 @@
         <places:location>Kec. Sirimau, Kota Ambon</places:location>
         <places:discovered>-</places:discovered>
         <places:built>1575</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://pergiyuk.com/wp-content/uploads/2023/02/Benteng-Nieuw-Victoria.jpg</places:thumbnail>
     </places:tour>
 
@@ -825,7 +825,7 @@
         <places:location>Kecamatan Ternate Selatan, Kota Ternate</places:location>
         <places:discovered>-</places:discovered>
         <places:built>1540</places:built>
-        <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+        <places:category>Benteng/Markas Pertahanan</places:category>
         <places:thumbnail>https://cdn.idntimes.com/content-images/community/2022/05/benteng-kalamata-mitsnain-e08c9dc5918acd4505a300b21f6394a3-b1fbb471266c16fb7ec143b6c6333187_600x400.jpg</places:thumbnail>
     </places:tour>
 
@@ -979,7 +979,7 @@
             <places:location>Kec. Meuraxa, Kota Banda Aceh</places:location>
             <places:discovered>-</places:discovered>
             <places:built>Abad ke-7 Masehi</places:built>
-            <places:category>Benteng/Kubu/Markas Pertahanan</places:category>
+            <places:category>Benteng/Markas Pertahanan</places:category>
             <places:thumbnail>https://asset.kompas.com/crops/WiHcMrODhtXS9cptDsgNciNCFgk=/92x54:994x656/1200x800/data/photo/2022/05/18/6284e0cfb8fd4.jpg</places:thumbnail>
         </places:tour>
 
@@ -1003,7 +1003,7 @@
             <places:location>Jl. Brigjend Katamso No.370, Kec. Medan Maimun, Kota Medan</places:location>
             <places:discovered>-</places:discovered>
             <places:built>Abad ke-7 Masehi</places:built>
-            <places:category>Istana</places:category>
+            <places:category>Istana/Keraton</places:category>
             <places:thumbnail>https://indonesia.go.id/assets/upload/headline//1560756410_20190507_083358.jpg</places:thumbnail>
         </places:tour>
 
@@ -1016,7 +1016,7 @@
             <places:location>Jalan Pos Nomor 1, Kecamatan Medan Barat, Kota Medan</places:location>
             <places:discovered>-</places:discovered>
             <places:built>Abad ke-7 Masehi</places:built>
-            <places:category>Bangunan Bersejarah</places:category>
+            <places:category>Gedung/Bangunan Bersejarah</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNbwrsD5LzDumRIeePJtg8lae07MCjib7Jw&amp;s</places:thumbnail>
         </places:tour>
 
@@ -1051,7 +1051,7 @@
             <places:location>Jl. Sutan Alam Bagagarsyah	Kecamatan Tanjung Emas, Kabupaten Tanah Datar</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1976</places:built>
-            <places:category> Istana</places:category>
+            <places:category>Istana/Keraton</places:category>
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/18/Istano_Rajo_Basa_Pagaruyung.jpg</places:thumbnail>
         </places:tour>
 
@@ -1063,7 +1063,7 @@
             <places:location>Jl. Senapelan No. 128, Kampung Bandar	Kec. Senapelan, Kota Pekanbaru</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1762</places:built>
-            <places:category> Tempat Ibadah</places:category>
+            <places:category>Tempat Ibadah</places:category>
             <places:thumbnail>https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/akurat/images/2022/05/big/img_62794fc1cd3f97-21047141-11480847.jpg</places:thumbnail>
         </places:tour>
 
@@ -1078,7 +1078,7 @@
             <places:location>Jl. Sultan Syarif Kasim, Siak	Kabupaten Siak, Riau</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1723</places:built>
-            <places:category> Istana/Keraton</places:category>
+            <places:category>Istana/Keraton</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFshq_RRwMAG5bPsv2BTDoaLBuvtpnfgJJA&amp;s</places:thumbnail>
         </places:tour>
 
@@ -1102,7 +1102,7 @@
             <places:location>Jl. Merdeka No.5,	Kecamatan Tanjung Pinang Kota, Kota Tanjung Pinang</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1803</places:built>
-            <places:category> Tempat Ibadah</places:category>
+            <places:category>Tempat Ibadah</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaSUCJKslWQ4vZD2TobYxYi2T4ZEaZgYS9Q&amp;s</places:thumbnail>
         </places:tour>
 
@@ -1137,7 +1137,7 @@
             <places:location>Jalan Letkol Selamet Riyadi,	Kecamatan Legok, Kota Jambi</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1800-an</places:built>
-            <places:category>Makam</places:category>
+            <places:category>Makam/Situs Pemakaman</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBN4OWWsjbpsxKwWHi1fyP5Fv2VXnooykYQ&amp;s</places:thumbnail>
         </places:tour>
 
@@ -1148,7 +1148,7 @@
             <places:location>Kabupaten Muaro Jambi, Jambi, tepatnya di Kecamatan Maro Sebo</places:location>
             <places:discovered>-</places:discovered>
             <places:built>abad ke-7 hingga ke-12 Masehi</places:built>
-            <places:category> Tempat Ibadah</places:category>
+            <places:category>Tempat Ibadah</places:category>
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Candi_Muaro_Jambi_dengan_langit_biru.jpg/405px-Candi_Muaro_Jambi_dengan_langit_biru.jpg</places:thumbnail>
         </places:tour>
 
@@ -1225,7 +1225,7 @@
             <rdfs:name>Museum Timah Indonesia</rdfs:name>
             <places:description>Museum yang mengisahkan sejarah pertambangan timah di Bangka.</places:description>
             <places:province>Bangka Belitung</places:province>
-            <places:location>Batin Tikal, Kec. Taman Sari	Kota Pangkal Pinang, Kepulauan Bangka Belitung</places:location>
+            <places:location>Batin Tikal, Kec. Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung</places:location>
             <places:discovered>-</places:discovered>
             <places:built>-</places:built>
             <places:category>Museum Bersejarah</places:category>
@@ -1253,17 +1253,6 @@
             <places:built>1713</places:built>
             <places:category>Benteng</places:category>
             <places:thumbnail>https://www.iwarebatik.org/wp-content/uploads/2019/09/Benteng-Marlborough-Atas.jpg</places:thumbnail>
-        </places:tour>
-
-        <places:tour rdf:about="https://example.org/page/Museum_Timah_Indonesia">
-            <rdfs:name>Museum Timah Indonesia</rdfs:name>
-            <places:description>Museum ini menyimpan koleksi sejarah dan budaya masyarakat Bengkulu.</places:description>
-            <places:province>Bengkulu</places:province>
-            <places:location>Jl. Pembangunan No. 08, Gading Cempaka	Kec. Singaran Pati, Kota Bengkulu</places:location>
-            <places:discovered>-</places:discovered>
-            <places:built>1986</places:built>
-            <places:category>Museum Bersejarah</places:category>
-            <places:thumbnail>https://awsimages.detik.net.id/community/media/visual/2024/05/06/museum-bengkulu_169.jpeg?w=1200</places:thumbnail>
         </places:tour>
 
          <!-- //PROVINSI Lampung// -->
@@ -1320,7 +1309,7 @@
             <places:location>Jl. Kasepuhan No.43, Kesepuhan	Kec. Lemahwungkuk, Kota Cirebon</places:location>
             <places:discovered>-</places:discovered>
             <places:built>1445</places:built>
-            <places:category> Istana/Keraton</places:category>
+            <places:category>Istana/Keraton</places:category>
             <places:thumbnail>https://asset.kompas.com/crops/FdTf8FFrnRaGfeAVUcKcMHvEkBM=/0x0:1199x799/780x390/data/photo/2021/05/24/60aa93b2c773f.jpg</places:thumbnail>
         </places:tour>
 
@@ -1387,21 +1376,21 @@
             <places:description>Museum Bahari adalah museum yang menyimpan koleksi yang berhubungan dengan kebaharian dan kenelayanan bangsa Indonesia dari Sabang hingga Merauke yang berlokasi di seberang Pelabuhan Sunda Kelapa.</places:description>
             <places:province>DKI Jakarta</places:province>
             <places:location>Jl. Ps. Ikan No.1, RT.11/RW.4, Penjaringan, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14440</places:location>
-            <places:discovered>1621</places:discovered>
+            <places:discovered>-</places:discovered>
             <places:built>1621</places:built>
             <places:category>Museum Bersejarah</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfn0gexZzpHktbXpTPdDkdlIEEJMhmjueAw&amp;s</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Museum_Banten_Lama">
-            <rdfs:name>Museum Banten Lama</rdfs:name>
+        <places:tour rdf:about="https://example.org/page/Kota_Tua">
+            <rdfs:name>Kota Tua</rdfs:name>
             <places:description>Kota Tua adalah pusat sejarah Jakarta yang berisi bangunan-bangunan kolonial peninggalan Belanda, museum, dan tempat wisata yang menampilkan keindahan arsitektur Eropa masa lampau.</places:description>
             <places:province>DKI Jakarta</places:province>
             <places:location>Pinangsia	Jakarta barat</places:location>
             <places:discovered>-</places:discovered>
             <places:built>Abad 17-18</places:built>
             <places:category>Gedung/Bangunan Bersejarah</places:category>
-            <places:thumbnail>https://www.google.com/search?q=kota+tua+jakarta&amp;sca_esv=dfbe50af9478875c&amp;udm=2&amp;biw=1536&amp;bih=730&amp;sxsrf=ADLYWILRxbUAsXAsTDwv-3s47VHc-RW_XQ%3A1731639703836&amp;ei=l7k2Z_DiMvqRseMP5KmW8Qs&amp;oq=kota+tua+ja&amp;gs_lp=EgNpbWciC2tvdGEgdHVhIGphKgIIADIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImhdQAFirD3AAeACQAQCYAV2gAbUFqgECMTG4AQPIAQD4AQGYAgugAtsFwgIEECMYJ8ICDhAAGIAEGLEDGIMBGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBZgDAJIHAjExoAfmPA&amp;sclient=img</places:thumbnail>
+            <places:thumbnail>https://img.antaranews.com/cache/1200x800/2024/06/18/101.jpg.webp</places:thumbnail>
         </places:tour>
 </rdf:RDF>
 

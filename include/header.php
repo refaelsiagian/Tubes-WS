@@ -28,10 +28,14 @@
             <li><a href="about.php">ABOUT</a></li>
         </ul>
         <div class="search-container">
-            <input type="text" class="search-input" placeholder="Search...">
-            <div class="search-icon">
-                <i class="fas fa-search"></i>
-            </div>
+            <form action="destinations.php" method="GET">
+                <input type="text" class="search-input" name="keyword" placeholder="Search...">
+                <button type="submit">
+                    <div class="search-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                </button>
+            </form>
         </div>
     </nav>
 

@@ -1,93 +1,87 @@
-<?php 
-$title = 'Destinations';
-include 'include/header.php'; 
+<?php
+    include 'vendor/functions.php';
+
+    $filter = '';
+    $title = 'DESTINATIONS';
+
+    if (isset($_GET['province'])) {
+        $filter = 'FILTER(?province = "' . urldecode($_GET['province']) . '")';
+        $title = $_GET['province'];
+    } elseif (isset($_GET['category'])) {
+        $filter = 'FILTER(?category = "' . $_GET['category'] . '")';
+        $title = $_GET['category'];
+    } elseif (isset($_GET['keyword'])) {
+        $keyword = urldecode($_GET['keyword']);
+        $filter = '
+            FILTER (
+                CONTAINS(LCASE(?name), LCASE("' . $keyword . '")) ||
+                CONTAINS(LCASE(?province), LCASE("' . $keyword . '")) ||
+                CONTAINS(LCASE(?location), LCASE("' . $keyword . '"))
+            )
+        ';
+        $title = "Search: " . $_GET['keyword'];
+    }
+
+    $query = '
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX places: <https://example.org/schema/places>
+
+        SELECT ?name ?province ?description ?thumbnail ?category ?location
+        WHERE {
+            ?subject rdfs:name ?name.
+            ?subject places:province ?province.
+            ?subject places:description ?description.
+            ?subject places:thumbnail ?thumbnail.
+            ?subject places:category ?category.
+            ?subject places:location ?location.
+            ' . $filter . '
+        }
+    ';
+
+    include 'include/header.php'; 
 ?>
 
 <div class="header-top">
     <div class="header-image"></div>
     <div class="text-header">
         <div class="center">
-            <h1>DESTINATIONS</h1>
+            <h1><?= $title ?></h1>
         </div>
     </div>
 </div>
 
 <div class="container row">
-    <div class="card column column-medium column-large">
-        <div class="card__thumbnail">
-            <img class="card__thumbnail-image" src="https://radarlampung.disway.id/upload/92a6ecb6bf70f5ea99b448b1a6228748.jpg" alt="Setrojenar Beach Photo">
-            <div class="card__header">
-                <h3 class="card__header-title">Pantai Setrojenar</h3>
-                <p class="card__header-subtitle">Kebumen - 88.1 Km</p>
-            </div>
-        </div>
-        <div class="card__content">
-            <p class="card__description">
-                Wisata murah di kawasan jalur lintas selatan. Terdapat banyak penjual makanan dan berbagai fasilitas lainnya seperti toilet, parkir, dll.
-            </p>
-            <a href="detail.php?id=setrojenar" class="card__action">Selengkapnya</a>
-        </div>
-    </div>
-    <div class="card column column-medium column-large">
-        <div class="card__thumbnail">
-            <img class="card__thumbnail-image" src="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/23/3980391372.jpg" alt="Petanahan Beach Photo">
-            <div class="card__header">
-                <h3 class="card__header-title">Pantai Petanahan</h3>
-                <p class="card__header-subtitle">Kebumen - 97.5 Km</p>
-            </div>
-        </div>
-        <div class="card__content">
-            <p class="card__description">
-                Siapa tak kenal pantai petanahan, pantai paling ramai di wilayan kebumen ini selalu meriah meski bukan hari libur.
-            </p>
-            <a href="detail.php?id=petanahan" class="card__action">Selengkapnya</a>
-        </div>
-    </div>
-    <div class="card column column-medium column-large">
-        <div class="card__thumbnail">
-            <img class="card__thumbnail-image" src="https://res.cloudinary.com/isuk/image/upload/v1573857890/public-assets/course/chapter-2/img-3_geodb3.png" alt="Suwuk Beach Photo">
-            <div class="card__header">
-                <h3 class="card__header-title">Pantai Suwuk</h3>
-                <p class="card__header-subtitle">Kebumen - 109 Km</p>
-            </div>
-        </div>
-        <div class="card__content">
-            <p class="card__description">
-                Idola baru warga kebumen dan sekitarnya. menyajikan berbagai macam hiburan dan fasilitas. Retribusinya juga terbilang murah.
-            </p>
-            <a href="detail.php?id=suwuk" class="card__action">Selengkapnya</a>
-        </div>
-    </div>
-    <div class="card column column-medium column-large">
-        <div class="card__thumbnail">
-            <img class="card__thumbnail-image" src="https://res.cloudinary.com/isuk/image/upload/v1573857891/public-assets/course/chapter-2/img-4_w9wwu7.png" alt="Ayah Beach Photo">
-            <div class="card__header">
-                <h3 class="card__header-title">Pantai Ayah</h3>
-                <p class="card__header-subtitle">Kebumen - 123 Km</p>
-            </div>
-        </div>
-        <div class="card__content">
-            <p class="card__description">
-                Pantai di daerah kebumen ini selalu menarik untuk dikunjungi. Meski sudah muncul pantai-pantai baru, pesona pantai ayah tetap indah.
-            </p>
-            <a href="#" class="card__action">Selengkapnya</a>
-        </div>
-    </div>
-    <div class="card column column-medium column-large">
-        <div class="card__thumbnail">
-            <img class="card__thumbnail-image" src="https://res.cloudinary.com/isuk/image/upload/v1573857890/public-assets/course/chapter-2/img-3_geodb3.png" alt="Suwuk Beach Photo">
-            <div class="card__header">
-                <h3 class="card__header-title">Pantai Suwuk</h3>
-                <p class="card__header-subtitle">Kebumen - 109 Km</p>
-            </div>
-        </div>
-        <div class="card__content">
-            <p class="card__description">
-                Idola baru warga kebumen dan sekitarnya. menyajikan berbagai macam hiburan dan fasilitas. Retribusinya juga terbilang murah.
-            </p>
-            <a href="detail.php?id=suwuk" class="card__action">Selengkapnya</a>
-        </div>
-    </div>
+
+    <?php try { $result = $sparql_jena->query($query);?>
+        <?php if(count($result) > 0) : ?>
+
+            <?php foreach($result as $row) : ?>
+                <div class="card column column-medium column-large">
+                    <div class="card__thumbnail">
+                        <img class="card__thumbnail-image" src="<?= $row->thumbnail ?>" alt="Setrojenar Beach Photo">
+                        <div class="card__header">
+                            <h3 class="card__header-title"><?= $row->name ?></h3>
+                            <p class="card__header-subtitle"><?= $row->province ?></p>
+                            <p class="card__header-subtitle"><?= $row->category ?></p>
+                        </div>
+                    </div>
+                    <div class="card__content">
+                        <p class="card__description">
+                            <?= limitWords($row->description, 15) ?>
+                        </p>
+                        <a href="detail.php?destination=<?= urlencode($row->name) ?>" class="card__action">Selengkapnya</a>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+
+        <?php else : ?>
+            <h2>No data found</h2>
+        <?php endif; ?>
+
+    <?php } catch (Exception $e) { ?>
+        <h2>Terjadi kesalahan: <?= $e->getMessage() ?></h2>
+    <?php } ?>
+
 </div>
 
 <?php include 'include/footer.php'; ?>
