@@ -1,5 +1,32 @@
+<?php
+    include 'vendor/functions.php';
+
+    if (isset($_GET['destination'])) {
+        $destination = urldecode($_GET['destination']);
+    }
+
+    $query = '
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX places: <https://example.org/schema/places>
+
+        SELECT ?name ?province ?description ?thumbnail ?category ?location ?built ?discovered
+        WHERE {
+            ?subject rdfs:name ?name.
+            ?subject places:province ?province.
+            ?subject places:description ?description.
+            ?subject places:thumbnail ?thumbnail.
+            ?subject places:category ?category.
+            ?subject places:location ?location.
+            ?subject places:built ?built.
+            ?subject places:discovered ?discovered.
+            FILTER(?name = "'.$destination.'")
+        }
+    ';
+
+?>
+
 <?php 
-    $title = 'Destination Detail';
+    $title = $destination;
     include 'include/header.php';
 ?>
 
@@ -7,7 +34,7 @@
     <div class="header-image"></div>
        <div class="text-header">
           <div class="center">
-             <h1>DETAIL OF DESTINATION</h1>
+             <h1><?= $title; ?></h1>
           </div>
         </div>  
     </div>
@@ -15,40 +42,48 @@
 
 <div class="container-content">
     <div class="content">
-        <div class="card-content-img">
-            <img alt="Masjid Raya Pekan Baru at sunset with a crescent moon in the sky" height="400" src="https://storage.googleapis.com/a1aa/image/exgYLTlfW3oxbk3iNsnexrVw2d9jsijRet8wZfeX22EFWU58E.jpg" width="300"/>
-        </div>
-        <div class="card-content">
-            <div class="text-content">
-                <!-- <h3>Tempat Ibadah</h3> -->
-                <h2>Masjid Raya Pekan Baru</h2>
-                <p>
-                    Masjid Raya Pekanbaru adalah salah satu masjid terbesar dan paling terkenal di Kota Pekanbaru. Masjid ini memiliki arsitektur yang megah dengan perpaduan desain tradisional Melayu dan modern. Masjid Raya Pekanbaru tidak hanya berfungsi sebagai tempat ibadah bagi umat Muslim, tetapi juga sebagai pusat kegiatan sosial dan keagamaan di kota ini. Masjid ini dapat menampung ribuan jamaah dan sering digunakan untuk berbagai acara keagamaan, termasuk salat berjamaah, pengajian, dan perayaan hari besar Islam. Keindahan arsitekturnya dan suasana yang khusyuk menjadikan Masjid Raya Pekanbaru sebagai salah satu tujuan wisata religi di Pekanbaru.
-                </p>
-            </div>
-            <table class="info-table">
-                <tr>
-                    <th>Ditemukan</th>
-                    <td>-</td>
-                </tr>
-                <tr>
-                    <th>Didirikan</th>
-                    <td>1762</td>
-                </tr>
-                <tr>
-                    <th>Jalan</th>
-                    <td>Jl. Senapelan No. 128, Kampung Bandar</td>
-                </tr>
-                <tr>
-                    <th>Kabupaten/Kota</th>
-                    <td>Kec. Senapelan, Kota Pekanbaru</td>
-                </tr>
-                <tr>
-                    <th>Provinsi</th>
-                    <td>Riau</td>
-                </tr>
-            </table>
-        </div>
+        <?php try { $result = $sparql_jena->query($query);?>
+            <?php if(count($result) > 0) : ?>
+
+                <?php foreach($result as $row) : ?>
+                    <div class="card-content-img">
+                        <img alt="<?= $destination; ?>" height="400" src="<?= $row->thumbnail; ?>" width="300"/>
+                    </div>
+                    <div class="card-content">
+                        <div class="text-content">
+                            <!-- <h3>Tempat Ibadah</h3> -->
+                            <h2><?= $row->name; ?></h2>
+                            <p><?= $row->description; ?></p>
+                        </div>
+                        <table class="info-table">
+                            <tr>
+                                <th>Ditemukan</th>
+                                <td><?= $row->discovered; ?></td>
+                            </tr>
+                            <tr>
+                                <th>Didirikan</th>
+                                <td><?= $row->built; ?></td>
+                            </tr>
+                            <tr>
+                                <th>Lokasi</th>
+                                <td><?= $row->location; ?></td>
+                            </tr>
+                            <tr>
+                                <th>Provinsi</th>
+                                <td><?= $row->province; ?></td>
+                            </tr>
+                        </table>
+                    </div>
+                <?php endforeach; ?>
+
+            <?php else : ?>
+                <h2>No data found</h2>
+            <?php endif; ?>
+
+        <?php } catch (Exception $e) { ?>
+            <h2>Terjadi kesalahan: <?= $e->getMessage() ?></h2>
+        <?php } ?>
+
     </div>
 </div>
 
