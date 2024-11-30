@@ -172,15 +172,15 @@
         <places:thumbnail>https://awsimages.detik.net.id/community/media/visual/2022/12/05/museum-di-ntb-dan-ntt-1_169.png?w=1200</places:thumbnail>
     </places:tour>
 
-    <places:tour rdf:about="https://example.org/page/Benteng_Lahayong">
-        <rdfs:name>Benteng Lahayong</rdfs:name>
+    <places:tour rdf:about="https://example.org/page/Benteng_Lohayong">
+        <rdfs:name>Benteng Lohayong</rdfs:name>
         <places:description>Benteng ini telah menyaksikan pergantian kekuasaan antara Portugis dan Belanda, serta berbagai peristiwa penting lainnya.Benteng ini dibangun pada abad ke-16 oleh bangsa Portugis dan memiliki peran strategis sebagai pusat perdagangan dan pertahanan.</places:description>
         <places:province>Nusa Tenggara Timur</places:province>
         <places:location>Lohayong II, Kec. Solor Tim., Kabupaten Flores Timur</places:location>
         <places:discovered>-</places:discovered>
         <places:built>abad ke-16</places:built>
         <places:category>Benteng/Markas Pertahanan</places:category>
-        <places:thumbnail>https://cdns.klimg.com/mav-prod-resized/1200x630/bg/newsOg/2024/4/25/1714038333593-k1ajk.jpeg</places:thumbnail>
+        <places:thumbnail>https://dimensiindonesia.com/wp-content/uploads/2022/01/lohayong.jpg</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Liang_Bua">
@@ -461,7 +461,7 @@
         <places:discovered>Abad ke-20</places:discovered>
         <places:built>Abad ke-3</places:built>
         <places:category>Makam/Situs Pemakaman</places:category>
-        <places:thumbnail>https://cdns.klimg.com/merdeka.com/i/w/news/2021/06/03/1314079/540x270/menyusuri-pokekea-di-lore-lindu-situs-megalitikum-tertua-di-indonesia.jpg</places:thumbnail>
+        <places:thumbnail>https://img.koran-jakarta.com/images/article/pokekea-situs-megalitik-tertua-di-indonesia-230224225631.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Istana Raja Mori -->
@@ -492,7 +492,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1835</places:built>
         <places:category>Tempat Ibadah</places:category>
-        <places:thumbnail>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619433547/lnotd1skjclhmtlhpvrc.jpg/places:thumbnail</places:thumbnail>
+        <places:thumbnail>https://assets.promediateknologi.id/crop/148x952:978x1438/750x500/webp/photo/2023/03/29/Screenshot_20230329-093817_Twitter-4188830735.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Gereja Tua Simpangan -->
@@ -778,7 +778,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1811</places:built>
         <places:category>Landmark (Monumen/Jembatan/Patung)</places:category>
-        <places:thumbnail>https://lh3.googleusercontent.com/p/AF1QipOi857QAKTOn1pCGJ2PGsHYYXFqYPcGRytHTE9Y=s680-w680-h510</places:thumbnail>
+        <places:thumbnail>https://asset-2.tstatic.net/ternate/foto/bank/images/pelabuhan-residen-ternate.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Makam Sultan Babullah -->
@@ -1069,10 +1069,10 @@
 
         <places:tour rdf:about="https://example.org/page/Istana_Siak_Sri_Indrapura">
             <rdfs:name>Istana Siak Sri Indrapura</rdfs:name>
-            <places:description>"Istana Siak Sri indrapura adalah kediaman resmi Sultan Siak yang memiliki luas 32.000 meter. Istana ini sudah ada sejak tahun 1.723. Bentuk bangunan istana yang terdiri dari 2 lantai ini memiliki arsitektur bercorak Melayu, Arab, dan Eropa. 
+            <places:description>Istana Siak Sri indrapura adalah kediaman resmi Sultan Siak yang memiliki luas 32.000 meter. Istana ini sudah ada sejak tahun 1.723. Bentuk bangunan istana yang terdiri dari 2 lantai ini memiliki arsitektur bercorak Melayu, Arab, dan Eropa. 
                                 Pada lantai bawah Anda dapat menemukan 6 ruangan yang difungsikan sebagai ruang tunggu tamu, ruang tamu kehormatan, ruang tamu laki-laki, ruang tamu perempuan, ruang siding kerajaan yang juga difungsikan sebagai ruang pesta. 
                                 Sementara untuk lantai atas terdiri atas 9 ruangan yang berfungsi sebagai tempat istirahat Sultan serta para tamu istana. 
-                                Di bagian halaman istana, Anda dapat menemukan 8 meriam yang tersebar di berbagai sisi halaman istana. Apabila Anda pergi ke bagian kiri belakang istana, Anda akan menemukan bangunan kecil yang dulunya digunakan sebagai penjara sementara. Selain itu, Anda juga dapat melihat sebuah koleksi peninggalan kerajaan berupa perahu kuno bernama “Kapal Kato“ yang dulunya digunakan Sultan untuk mengunjungi daerah-daerah kekuasaannya."
+                                Di bagian halaman istana, Anda dapat menemukan 8 meriam yang tersebar di berbagai sisi halaman istana. Apabila Anda pergi ke bagian kiri belakang istana, Anda akan menemukan bangunan kecil yang dulunya digunakan sebagai penjara sementara. Selain itu, Anda juga dapat melihat sebuah koleksi peninggalan kerajaan berupa perahu kuno bernama “Kapal Kato“ yang dulunya digunakan Sultan untuk mengunjungi daerah-daerah kekuasaannya.
                                 </places:description>
             <places:province>Riau</places:province>
             <places:location>Jl. Sultan Syarif Kasim, Siak	Kabupaten Siak, Riau</places:location>
@@ -1324,7 +1324,7 @@
             <places:thumbnail>https://museum.co.id/wp-content/uploads/2020/09/Museum-Sri-Baduga-1.jpg</places:thumbnail>
         </places:tour>
 
-        <!-- //PROVINSI Banten// -->
+        <!-- //PROVINSI Banten// GMAPS-->
         <places:tour rdf:about="https://example.org/page/Masjid_Agung_Banten">
             <rdfs:name>Masjid Agung Banten</rdfs:name>
             <places:description>Masjid tua dengan menara khas yang masih digunakan sebagai tempat ibadah.</places:description>
@@ -1368,7 +1368,7 @@
             <places:discovered>-</places:discovered>
             <places:built>1961</places:built>
             <places:category>Landmark</places:category>
-            <places:thumbnail>https://www.google.com/search?sca_esv=dfbe50af9478875c&amp;sxsrf=ADLYWIJTGwyV1Axi_NcJ2FbdVHUGDIcZ6g:1731639642214&amp;q=monas&amp;udm=2&amp;fbs=AEQNm0DRkam6RZP7GtztEOLmt4oJ8Clo4GiuZfu1v-ShpjWeHJx3g_9TgwV1SRaOPx9HL-nRv0CDzo6aKZc4312-ne0dLdN25o9KlRKeWDSNwJ8L22GaZDR4k73q1umvoTrkNs-f5NM_Y6lelKXnPglqZdpzruyQAd1FEpPfGrWRxAH4fN9eklarNC855Om4c-VjzPkuiuiEPVZ0gsOzcQFiW5jl9ml3Bw&amp;sa=X&amp;ved=2ahUKEwih_4KurN2JAxX9S2wGHcG2H3gQtKgLegQIDxAB&amp;biw=1536&amp;bih=730&amp;dpr=1.25</places:thumbnail>
+            <places:thumbnail>https://cdn-images-1.medium.com/v2/resize:fit:1000/1*V2DR9jxRNyhZKqqXPY1cSg.jpeg</places:thumbnail>
         </places:tour>
 
         <places:tour rdf:about="https://example.org/page/Museum_Bahari">
