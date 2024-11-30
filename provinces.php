@@ -5,10 +5,11 @@
         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
         PREFIX places: <https://example.org/schema/places>
 
-        SELECT DISTINCT ?province
+        SELECT DISTINCT ?province (COUNT(?tour) AS ?placeCount)
         WHERE {
-        ?tour places:province ?province .
+            ?tour places:province ?province .
         }
+        GROUP BY ?province
         ORDER BY ASC(?province)
     ';
 
@@ -47,14 +48,17 @@
                     <a href="destinations.php?province=<?= urlencode($row->province) ?>">
                         <div class="card-prov">
                             <div class="card-icon"><i class="fas <?= $icons[array_rand($icons)] ?>"></i></div>
-                                <div>
-                                    <div class="card-title"><?= $row->province; ?></div>
-                                    <div class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+                            <div>
+                                <div class="card-title"><?= $row->province; ?></div>
+                                <div class="card-description">
+                                    <?= $row->placeCount; ?> places are located in this province
                                 </div>
+                            </div>
                             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
                         </div>
                     </a>
                 <?php endforeach; ?>
+
 
             <?php else : ?>
                 <h2>No province found</h2>
