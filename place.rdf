@@ -18,8 +18,8 @@
         <places:thumbnail>https://nagantour.com/wp-content/uploads/2023/11/Museum-Kereta-Api-Ambarawa.webp</places:thumbnail>
     </places:tour>
 
-    <places:tour rdf:about="https://example.org/page/Candi_Borobudur">
-        <rdfs:name>Candi Borobudur</rdfs:name>
+    <places:tour rdf:about="https://example.org/page/Candi_Borobudur"> 
+        <rdfs:name>Borobudur</rdfs:name>
         <places:description>Borobudur merupakan mahakarya arsitektur dan seni Buddha yang megah. Candi ini memiliki bentuk menyerupai punden berundak dan terdiri dari sembilan tingkat bertumpuk, yang di puncaknya terdapat stupa besar dikelilingi oleh 72 stupa berisi patung Buddha. Relief di dinding Borobudur mengisahkan ajaran Buddha, termasuk kehidupan Sang Buddha dan prinsip-prinsip dharma. Candi ini mencerminkan konsep kosmologi Buddha, yaitu perjalanan spiritual dari dunia manusia menuju pencerahan.</places:description>
         <places:province>Jawa Tengah</places:province>
         <places:location>Jalan Badrawati, Kw. Candi Borobudur, Borobudur DAN Kecamatan Borobudur, Kabupaten Magelang</places:location>
@@ -27,10 +27,12 @@
         <places:built>abad ke-8 dan ke-9 Masehi</places:built>
         <places:category>Tempat Ibadah</places:category>
         <places:thumbnail>https://superlive.id/storage/superadventure/2018/04/17/615aa236a40e.jpg</places:thumbnail>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Borobudur"/>
+
     </places:tour>
 
     <places:tour rdf:about="https://example.org/page/Candi_Prambanan">
-        <rdfs:name>Candi Prambanan</rdfs:name>
+        <rdfs:name>Prambanan</rdfs:name>
         <places:description>Candi utama dalam kompleks ini adalah Candi Siwa yang memiliki tinggi 47 meter dan dihiasi dengan relief yang menceritakan epos Ramayana. Selain Candi Siwa, terdapat juga candi-candi utama lainnya, yaitu Candi Brahma dan Candi Wisnu, yang dikelilingi oleh ratusan candi kecil atau candi perwara.</places:description>
         <places:province>Jawa Tengah</places:province>
         <places:location>Jalan Raya Solo- Yogyakarta Nomor 16 Kranggan, Bokoharjo DAN Kecamatan Prambanan, Kebupaten Sleman</places:location>
