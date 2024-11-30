@@ -1,18 +1,3 @@
-<?php
-    include 'vendor/functions.php';
-
-    $query = '
-        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-        PREFIX places: <https://example.org/schema/places>
-
-        SELECT ?name WHERE {
-            ?tour a places:tour .
-            ?tour rdfs:name ?name .
-        }
-    ';
-    $result = $sparql_jena->query($query);
-?>
-
 <?php 
     $title = 'Home';
     include 'include/header.php'; 
@@ -100,19 +85,6 @@
             </button>
         </div>
     </div>
-    <!-- CONTOH IMPLEMENTASI -->
-    <p>
-        <?php
-            $result = $sparql_jena->query($query);
-
-            foreach ($result as $row) {
-                if (isset($row->name)) { // Pastikan 'name' ada di hasil
-                    // Ambil nilai 'name'
-                    echo $row->name->getValue() . '<br>';
-                }
-            }
-        ?>
-    </p>
 </section>
 
 <?php include 'include/footer.php'; ?>
