@@ -75,7 +75,11 @@
             <?php endforeach; ?>
 
         <?php else : ?>
-            <h2>No data found</h2>
+            <div class="no-data">
+            <img src="assets/image/not-found.png" alt="no-data">
+            <h2>OOPS!</h2>
+            <p>Data not found</p>
+            </div>
         <?php endif; ?>
 
     <?php } catch (Exception $e) { ?>
