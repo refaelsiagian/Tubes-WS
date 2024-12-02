@@ -2,17 +2,16 @@
         <div class="section__container footer__container">
             <div class="footer__col">
                 <div class="footer__logo">
-                    <a href="#" class="logo">NAMA WEBNYAAA</a>
+                    <a href="#" class="logo">HISTORIA</a>
                 </div>
                 <p>
-                    Explore the world with ease and excitement through our comprehensive
-                    travel platform. Your journey begins here, where seamless planning
-                    meets unforgettable experiences.
+                Temukan destinasi wisata bersejarah di Indonesia, 
+                jelajahi kekayaan budaya dan sejarah yang penuh cerita
                 </p>
             </div>
         </div>
         <div class="footer__bar">
-            Copyright © 2024 Web Design Mastery. All rights reserved.
+            Copyright © 2024 Historia. All rights reserved.
         </div>
     </footer>
 
