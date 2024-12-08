@@ -791,7 +791,7 @@
     </places:tour>
 
     <!-- Masjid Kesultanan Ternate -->
-    <places:tour rdf:about="https://example.org/page/Masjid_Kesultanan_Ternate">
+    <places:tour rdf:about="https://dbpedia.org/page/Sultan_of_Ternate_Mosque">
         <rdfs:name>Masjid Kesultanan Ternate</rdfs:name>
         <places:description>Masjid Kesultanan Ternate, juga dikenal sebagai Masjid Sultan Ternate, memiliki sejarah panjang yang terkait erat dengan kesultanan Ternate. Dibangun pada tahun 1679, masjid ini awalnya terbuat dari kayu dan disebut Sigi Lamo. Seiring berjalannya waktu, bangunan ini mengalami beberapa kali pemugaran, termasuk perubahan material menjadi batu, dan atap yang tadinya hanya terdiri dari tiga tumpang, diperluas menjadi lima tumpang pada tahun 1818. Arsitektur masjid ini sangat khas dengan desain atap bertumpang yang menambah keunikannya. Masjid ini memiliki berbagai aturan dan tradisi khas, seperti larangan bagi wanita untuk masuk ke dalam masjid, serta ritual adzan yang dikumandangkan oleh empat muazin yang mewakili wilayah berbeda di Ternate. Salah satu tradisi unik lainnya adalah Malam Qunut yang diadakan pada malam ke-16 Ramadan, di mana Sultan dan keluarganya melakukan upacara khusus di masjid.</places:description>
         <places:province>Maluku Utara</places:province>
@@ -983,7 +983,7 @@
     </places:tour>
 
         <!-- //PROVISI ACEH// -->
-        <places:tour rdf:about="https://example.org/page/Masjid_Raya_Baiturrahman">
+        <places:tour rdf:about="https://dbpedia.org/page/Baiturrahman_Grand_Mosque">
             <rdfs:name>Masjid Raya Baiturrahman</rdfs:name>
             <places:description>Masjid Raya Baiturrahman adalah masjid ikonik di Banda Aceh yang dibangun pada masa Sultan Iskandar Muda, Sultan Aceh ke-9, pada tahun 1612. Masjid ini memiliki arsitektur yang megah dan menjadi simbol ketahanan dan kebanggaan masyarakat Aceh, terutama pasca-tsunami 2004. Keindahan dan kemegahan masjid ini menjadikannya tempat yang penting dalam sejarah Islam di Aceh.</places:description>
             <places:province>Aceh</places:province>
@@ -994,7 +994,7 @@
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/Meuseujid_Raya_Baiturrahman_.jpg</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Museum_Tsunami_Aceh">
+        <places:tour rdf:about="https://dbpedia.org/page/Aceh_Tsunami_Museum">
             <rdfs:name>Museum Tsunami Aceh</rdfs:name>
             <places:description>Museum Tsunami Aceh didirikan sebagai penghormatan dan untuk mengenang peristiwa tsunami dahsyat yang melanda Aceh pada 26 Desember 2004. Museum ini dirancang dengan arsitektur modern yang unik dan menyimpan berbagai artefak, foto, dan dokumentasi yang menggambarkan tragedi tersebut. Museum ini bertujuan untuk memberikan edukasi tentang bencana alam dan dampaknya bagi masyarakat Aceh serta upaya pemulihan yang telah dilakukan.</places:description>
             <places:province>Aceh</places:province>
@@ -1029,7 +1029,7 @@
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27NaVGzVjrengoSY9KWSAPUKQwPOH2iG4Ig&amp;s</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Istana_Maimun">
+        <places:tour rdf:about="https://dbpedia.org/page/Maimun_Palace">
             <rdfs:name>Istana Maimun</rdfs:name>
             <places:description>Istana Maimun adalah istana yang dibangun pada masa pemerintahan Sultan Makmun Al Rasyid, Sultan Deli, pada tahun 1888. Istana ini memiliki arsitektur yang sangat menarik dengan gaya Melayu, India, dan Spanyol. Sebagai kediaman resmi Sultan Deli, Istana Maimun kini menjadi salah satu tempat wisata paling terkenal di Medan yang menyajikan berbagai koleksi peninggalan sejarah dan budaya Kesultanan Deli.</places:description>
             <places:province>Sumatera Utara</places:province>
@@ -1040,7 +1040,7 @@
             <places:thumbnail>https://indonesia.go.id/assets/upload/headline//1560756410_20190507_083358.jpg</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Pos_Bloc_Medan">
+        <places:tour rdf:about="https://dbpedia.org/page/Medan_Post_Office">
             <rdfs:name>Pos Bloc Medan</rdfs:name>
             <places:description>"Dulunya bagunan ini merupakan Kantor Pos Kota Medan. Kolaborasi antara PT Pos Properti Indonesia dan PT Ruang Kreatif Pos berhasil mengubah Gedung Kantor Pos Medan yang berusia 111 tahun menjadi creative hub multi fungsi yang menarik bagi komunitas kreatif.
                                 Pos Bloc Medan merupakan ruang kreatif publik yang direnovasi selama lebih dari enam bulan. Bangunan Pos Bloc Medan merupakan area bangunan yang dilindungi sebagai bangunan cagar budaya. Bangunan Pos Bloc Medan menjadi salah satu landmark Kota Medan yang memiliki arsitektur unik dengan perpaduan gaya Eropa dan karakter lokal.
@@ -1048,7 +1048,7 @@
             <places:province>Sumatera Utara</places:province>
             <places:location>Jalan Pos Nomor 1, Kecamatan Medan Barat, Kota Medan</places:location>
             <places:discovered>-</places:discovered>
-            <places:built>Abad ke-7 Masehi</places:built>
+            <places:built>1911</places:built>
             <places:category>Gedung/Bangunan Bersejarah</places:category>
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNbwrsD5LzDumRIeePJtg8lae07MCjib7Jw&amp;s</places:thumbnail>
         </places:tour>
@@ -1066,7 +1066,7 @@
             <places:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jam_Gadang_memanjang.jpg/1200px-Jam_Gadang_memanjang.jpg</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Museum_Adityawarman">
+        <places:tour rdf:about="https://dbpedia.org/page/Adityawarman_Museum">
             <rdfs:name>Museum Adityawarman</rdfs:name>
             <places:description>Museum Adityawarman adalah museum yang terletak di Kota Padang, Sumatera Barat. Didirikan pada tahun 1977, museum ini menyimpan berbagai koleksi yang berhubungan dengan sejarah dan kebudayaan masyarakat Minangkabau. Di dalam museum, pengunjung dapat melihat berbagai koleksi seperti seni tradisional Minangkabau, alat-alat pertanian, senjata tradisional, dan diorama yang menggambarkan kehidupan masyarakat Minangkabau dari masa lalu hingga sekarang. Museum ini juga memberikan wawasan yang lebih dalam tentang kerajaan-kerajaan yang pernah ada di Sumatera Barat.</places:description>
             <places:province>Sumatera Barat</places:province>
@@ -1128,8 +1128,8 @@
 
 
         <!-- //PROVINSI KEPULAUAN RIAU// -->
-        <places:tour rdf:about="https://example.org/page/Masjid_Raya_Sultan_Riau">
-            <rdfs:name>Masjid Raya Sultan Riau </rdfs:name>
+        <places:tour rdf:about="https://dbpedia.org/page/Grand_Mosque_of_the_Sultan_of_Riau">
+            <rdfs:name>Masjid Raya Sultan Riau</rdfs:name>
             <places:description>Masjid Raya Sultan Riau, yang terletak di Pulau Penyengat, dibangun pada tahun 1803. Masjid ini memiliki nilai sejarah yang sangat tinggi, karena merupakan tempat ibadah yang penting bagi kerajaan Kesultanan Riau-Lingga. Masjid ini dibangun menggunakan bahan-bahan lokal seperti batu bata dan kayu, serta dihiasi dengan ornamen-ornamen khas Melayu. Selain digunakan untuk ibadah, masjid ini juga menjadi pusat kegiatan sosial dan budaya bagi masyarakat di sekitar pulau. Sebagai salah satu situs sejarah, masjid ini menarik perhatian wisatawan yang ingin mempelajari lebih lanjut tentang sejarah dan kebudayaan Islam di kawasan Riau.</places:description>
             <places:province>Kepulauan Riau</places:province>
             <places:location>Jl. Merdeka No.5,	Kecamatan Tanjung Pinang Kota, Kota Tanjung Pinang</places:location>
@@ -1174,7 +1174,7 @@
             <places:thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBN4OWWsjbpsxKwWHi1fyP5Fv2VXnooykYQ&amp;s</places:thumbnail>
         </places:tour>
 
-        <places:tour rdf:about="https://example.org/page/Candi_Muaro_Jambi">
+        <places:tour rdf:about="https://dbpedia.org/page/Muaro_Jambi_Temple_Compounds">
             <rdfs:name>Candi Muaro Jambi</rdfs:name>
             <places:description>Candi Muaro Jambi adalah kompleks candi terbesar di Asia Tenggara dengan luas mencapai 3.981 hektar. Kompleks ini diduga merupakan peninggalan Kerajaan Sriwijaya dan Kerajaan Melayu</places:description>
             <places:province>Jambi</places:province>
@@ -1197,7 +1197,7 @@
         </places:tour>
     
         <!-- //PROVINSI Sumatera Selatan// -->
-        <places:tour rdf:about="https://example.org/page/Masjid_Agung_Palembang">
+        <places:tour rdf:about="https://dbpedia.org/page/Great_Mosque_of_Palembang">
             <rdfs:name>Masjid Agung Palembang</rdfs:name>
             <places:description>Masjid tertua di Palembang, dengan arsitektur khas perpaduan Melayu dan Tiongkok</places:description>
             <places:province>Sumatera Selatan</places:province>
@@ -1358,7 +1358,7 @@
         </places:tour>
 
         <!-- //PROVINSI Banten// GMAPS-->
-        <places:tour rdf:about="https://example.org/page/Masjid_Agung_Banten">
+        <places:tour rdf:about="https://dbpedia.org/page/Great_Mosque_of_Banten">
             <rdfs:name>Masjid Agung Banten</rdfs:name>
             <places:description>Masjid tua dengan menara khas yang masih digunakan sebagai tempat ibadah.</places:description>
             <places:province>Banten</places:province>
@@ -1393,7 +1393,7 @@
 
 
         <!-- //PROVINSI DKI Jakarta// -->
-        <places:tour rdf:about="https://dbpedia.org/page/National_Monument_(Indonesia)">
+        <places:tour rdf:about="https://dbpedia.org/page/National_Monument_Indonesia">
             <rdfs:name>Monumen Nasional (Monas)</rdfs:name>
             <places:description>Monumen Nasional (Monas) adalah ikon Jakarta yang melambangkan perjuangan rakyat Indonesia untuk meraih kemerdekaan. Tinggi monumen ini mencapai 132 meter dan dilengkapi museum di bagian bawahnya.</places:description>
             <places:province>DKI Jakarta</places:province>

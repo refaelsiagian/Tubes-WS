@@ -54,9 +54,13 @@ include 'include/header.php';
 
                 // Query SPARQL untuk mendapatkan koordinat
                 if ($aboutValue) {
-                    $mapQuery = '
-                    National_Monument_(Indonesia)
-                    ';
+                    $mapQuery = "
+                            SELECT DISTINCT * WHERE {
+                                dbr:$aboutValue geo:lat ?lat;
+                                                geo:long ?long . 
+                            }
+                        ";
+
                     $result2 = $sparqlDbPedia->query($mapQuery)->current();
                 }
 
