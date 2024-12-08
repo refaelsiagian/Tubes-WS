@@ -16,6 +16,7 @@
             FILTER (
                 CONTAINS(LCASE(?name), LCASE("' . $keyword . '")) ||
                 CONTAINS(LCASE(?province), LCASE("' . $keyword . '")) ||
+                CONTAINS(LCASE(?category), LCASE("' . $keyword . '")) ||
                 CONTAINS(LCASE(?location), LCASE("' . $keyword . '"))
             )
         ';
