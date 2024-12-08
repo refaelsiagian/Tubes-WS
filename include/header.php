@@ -14,7 +14,7 @@
     <nav>
         <div class="nav__header">
             <div class="nav__logo">
-                <a href="#" class="logo">Nama Web</a>
+                <a href="#" class="logo">HISTORIA</a>
             </div>
             <div class="nav__menu__btn" id="menu-btn">
                 <i class="ri-menu-line"></i>
@@ -25,7 +25,6 @@
             <li><a href="destinations.php">DESTINATIONS</a></li>
             <li><a href="categories.php">CATEGORIES</a></li>
             <li><a href="provinces.php">PROVINCES</a></li>
-            <li><a href="about.php">ABOUT</a></li>
         </ul>
         <div class="search-container">
             <form action="destinations.php" method="GET">

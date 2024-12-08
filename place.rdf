@@ -185,7 +185,7 @@
         <places:discovered>-</places:discovered>
         <places:built>abad ke-16</places:built>
         <places:category>Benteng/Markas Pertahanan</places:category>
-        <places:thumbnail>https://cdns.klimg.com/mav-prod-resized/1200x630/bg/newsOg/2024/4/25/1714038333593-k1ajk.jpeg</places:thumbnail>
+        <places:thumbnail>https://dimensiindonesia.com/wp-content/uploads/2022/01/lohayong.jpg</places:thumbnail>
     </places:tour>
 
     <places:tour rdf:about="https://dbpedia.org/page/Liang_Bua">
@@ -494,7 +494,7 @@
         <places:discovered>Abad ke-20</places:discovered>
         <places:built>Abad ke-3</places:built>
         <places:category>Makam/Situs Pemakaman</places:category>
-        <places:thumbnail>https://cdns.klimg.com/merdeka.com/i/w/news/2021/06/03/1314079/540x270/menyusuri-pokekea-di-lore-lindu-situs-megalitikum-tertua-di-indonesia.jpg</places:thumbnail>
+        <places:thumbnail>https://img.koran-jakarta.com/images/article/pokekea-situs-megalitik-tertua-di-indonesia-230224225631.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Tidak ada sumber -->
@@ -525,7 +525,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1835</places:built>
         <places:category>Tempat Ibadah</places:category>
-        <places:thumbnail>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619433547/lnotd1skjclhmtlhpvrc.jpg/places:thumbnail</places:thumbnail>
+        <places:thumbnail>https://assets.promediateknologi.id/crop/148x952:978x1438/750x500/webp/photo/2023/03/29/Screenshot_20230329-093817_Twitter-4188830735.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Gereja Tua Simpangan -->
@@ -811,7 +811,7 @@
         <places:discovered>-</places:discovered>
         <places:built>1811</places:built>
         <places:category>Landmark (Monumen/Jembatan/Patung)</places:category>
-        <places:thumbnail>https://lh3.googleusercontent.com/p/AF1QipOi857QAKTOn1pCGJ2PGsHYYXFqYPcGRytHTE9Y=s680-w680-h510</places:thumbnail>
+        <places:thumbnail>https://asset-2.tstatic.net/ternate/foto/bank/images/pelabuhan-residen-ternate.jpg</places:thumbnail>
     </places:tour>
 
     <!-- Makam Sultan Babullah -->
@@ -1102,10 +1102,10 @@
 
         <places:tour rdf:about="https://example.org/page/Istana_Siak_Sri_Indrapura">
             <rdfs:name>Istana Siak Sri Indrapura</rdfs:name>
-            <places:description>"Istana Siak Sri indrapura adalah kediaman resmi Sultan Siak yang memiliki luas 32.000 meter. Istana ini sudah ada sejak tahun 1.723. Bentuk bangunan istana yang terdiri dari 2 lantai ini memiliki arsitektur bercorak Melayu, Arab, dan Eropa. 
+            <places:description>Istana Siak Sri indrapura adalah kediaman resmi Sultan Siak yang memiliki luas 32.000 meter. Istana ini sudah ada sejak tahun 1.723. Bentuk bangunan istana yang terdiri dari 2 lantai ini memiliki arsitektur bercorak Melayu, Arab, dan Eropa. 
                                 Pada lantai bawah Anda dapat menemukan 6 ruangan yang difungsikan sebagai ruang tunggu tamu, ruang tamu kehormatan, ruang tamu laki-laki, ruang tamu perempuan, ruang siding kerajaan yang juga difungsikan sebagai ruang pesta. 
                                 Sementara untuk lantai atas terdiri atas 9 ruangan yang berfungsi sebagai tempat istirahat Sultan serta para tamu istana. 
-                                Di bagian halaman istana, Anda dapat menemukan 8 meriam yang tersebar di berbagai sisi halaman istana. Apabila Anda pergi ke bagian kiri belakang istana, Anda akan menemukan bangunan kecil yang dulunya digunakan sebagai penjara sementara. Selain itu, Anda juga dapat melihat sebuah koleksi peninggalan kerajaan berupa perahu kuno bernama “Kapal Kato“ yang dulunya digunakan Sultan untuk mengunjungi daerah-daerah kekuasaannya."
+                                Di bagian halaman istana, Anda dapat menemukan 8 meriam yang tersebar di berbagai sisi halaman istana. Apabila Anda pergi ke bagian kiri belakang istana, Anda akan menemukan bangunan kecil yang dulunya digunakan sebagai penjara sementara. Selain itu, Anda juga dapat melihat sebuah koleksi peninggalan kerajaan berupa perahu kuno bernama “Kapal Kato“ yang dulunya digunakan Sultan untuk mengunjungi daerah-daerah kekuasaannya.
                                 </places:description>
             <places:province>Riau</places:province>
             <places:location>Jl. Sultan Syarif Kasim, Siak	Kabupaten Siak, Riau</places:location>
@@ -1357,7 +1357,7 @@
             <places:thumbnail>https://museum.co.id/wp-content/uploads/2020/09/Museum-Sri-Baduga-1.jpg</places:thumbnail>
         </places:tour>
 
-        <!-- //PROVINSI Banten// -->
+        <!-- //PROVINSI Banten// GMAPS-->
         <places:tour rdf:about="https://example.org/page/Masjid_Agung_Banten">
             <rdfs:name>Masjid Agung Banten</rdfs:name>
             <places:description>Masjid tua dengan menara khas yang masih digunakan sebagai tempat ibadah.</places:description>
